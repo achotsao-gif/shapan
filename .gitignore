@@ -1,1 +1,13 @@
+# macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE / editors
+.idea/
+.vscode/
+*.swp
+
+# Local scripts
+*.command
+！！！*
