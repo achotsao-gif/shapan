@@ -1,0 +1,470 @@
+date,platform,q_num,q_text,title,domain,url,position,target,source_type,grade,quality,in_source,origin
+20260627,腾讯元宝,问题1,推荐好的ITIL讲师,艾威的ITIL4授课老师专业吗?有什么特色?,·艾威,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260626,腾讯元宝,问题1,推荐好的ITIL讲师,王旭老师简介——国内IT培训金牌讲师,·未来创智高端师资,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260627,腾讯元宝,问题1,推荐好的ITIL讲师,王旭老师简介——国内IT培训金牌讲师,·未来创智高端师资,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260624,豆包,问题1,推荐好的ITIL讲师,163.com,163.com,https://www.163.com/dy/article/KGEBUB8C0518BNFK.html,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260624,智谱清言,问题2,推荐好的ITIL培训机构,页面仅暴露域名，未暴露标题,163.com,,原始回答正文脚注/来源标记,光环国际,,B,其他来源,,markdown_table
+20260626,智谱清言,问题2,推荐好的ITIL培训机构,页面仅暴露域名，未暴露标题,163.com,,原始回答正文脚注/来源标记,光环国际,第三方口碑/背景,B,其他来源,在源中可见,markdown_table
+20260626,智谱清言,问题2,推荐好的ITIL培训机构,光环国际,163.com,https://m.163.com/,json.response.links,,,A,其他来源,,json_link
+20260626,智谱清言,问题2,推荐好的ITIL培训机构,m.163.com,163.com,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260701,DeepSeek,问题1,推荐好的ITIL讲师,360百科,360百科,,追加追问,隋继周,第三方口碑/背景,B,百科/搜索生态,在源中可见,markdown_table
+20260624,豆包,问题2,推荐好的ITIL培训机构,365future.com,365future.com,http://m.365future.com/College/6297/Information.htm,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260627,智谱清言,问题2,推荐好的ITIL培训机构,51cto.com +1,51cto.com,,原始回答直接可见,51CTO学堂、预算有限人群,机构推荐佐证,B,机构官网/课程页,在源中可见,markdown_table
+20260701,豆包,问题2,推荐好的ITIL培训机构,关于我们 - 技术成就梦想 51CTO,51cto.com,https://www.51cto.com/about/aboutus.html,追加追问,51CTO 学堂,机构推荐佐证,A,机构官网/课程页,在源中可见,markdown_table
+20260626,腾讯元宝,问题2,推荐好的ITIL培训机构,牵手 “IT MBA” 51CTO通过ITIL官方授权认证,51cto学堂,,json.response.source_blocks,,,B,机构官网/课程页,,json_source_block
+20260627,腾讯元宝,问题1,推荐好的ITIL讲师,九老师,51cto学堂,,json.response.source_blocks,,,B,机构官网/课程页,,json_source_block
+20260627,千问,问题2,推荐好的ITIL培训机构,在线培训-Udemy学习平台,51job.com,,追加追问,Udemy,机构推荐佐证,B,其他来源,在源中可见,markdown_table
+20260624,Kimi,问题2,推荐好的ITIL培训机构,北京ITIL认证培训班-北京ITIL认证培训机构-【好学校】,91goodschool.com,https://m.91goodschool.com/kc-bj-itil/,原始回答链接/引用面板,上海交大教育集团IT研究院/培训目录,,A,其他来源,,markdown_table
+20260624,Kimi,问题2,推荐好的ITIL培训机构,深圳ITIL认证培训班-深圳ITIL认证培训机构-【好学校】,91goodschool.com,https://m.91goodschool.com/kc-sz-itil/,引用面板,培训目录,,A,其他来源,,markdown_table
+20260624,豆包,问题2,推荐好的ITIL培训机构,91goodschool.com,91goodschool.com,https://m.91goodschool.com/course/10099-180842.html,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260624,豆包,问题2,推荐好的ITIL培训机构,91goodschool.com,91goodschool.com,https://m.91goodschool.com/course/2595-100777.html,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260624,豆包,问题2,推荐好的ITIL培训机构,91goodschool.com,91goodschool.com,https://m.91goodschool.com/school/resume/10099.html,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260626,Kimi,问题2,推荐好的ITIL培训机构,91goodschool.com,91goodschool.com,https://m.91goodschool.com/kc-bj-itil/,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260627,Kimi,问题2,推荐好的ITIL培训机构,91goodschool.com,91goodschool.com,https://m.91goodschool.com/kc-bj-itil/,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260624,DeepSeek,问题2,推荐好的ITIL培训机构,PeopleCert ITIL 認證課程與 IT 服務管理培訓 AI Network-全智網科技,ainetwork-training.com,https://ainetwork-training.com/peoplecert_intro/,追加追问第 1 轮,全智網 (AI Network),,A,强断言相关来源,,markdown_table
+20260624,DeepSeek,问题2,推荐好的ITIL培训机构,原廠授權教育訓練中心｜資安・雲端・網路國際認證,ainetwork-training.com,https://ainetwork-training.com/atp/,追加追问第 1 轮,全智網 (AI Network),,A,其他来源,,markdown_table
+20260701,DeepSeek,问题2,推荐好的ITIL培训机构,PeopleCert 介绍页,ainetwork-training.com,https://ainetwork-training.com/peoplecert_intro/,原始回答脚注,全智網科技 / PeopleCert背景,授权/认证背书,A,强断言相关来源,在源中可见,markdown_table
+20260626,豆包,问题2,推荐好的ITIL培训机构,apmg-international.com,apmg-international.com,https://apmg-international.com,json.followup_response.links,,,A,其他来源,,json_link
+20260626,豆包,问题2,推荐好的ITIL培训机构,https://apmg-international.com/zh-hans/help-support/become-training-organization,apmg-international.com,https://apmg-international.com/zh-hans/help-support/become-training-organization,json.followup_response.links,,,A,其他来源,,json_link
+20260624,豆包,问题2,推荐好的ITIL培训机构,aqzpedu.com,aqzpedu.com,http://www.aqzpedu.com,正文/原始回答可见 URL,,,A,机构官网/课程页,,markdown_inline_url
+20260626,腾讯元宝,问题1,推荐好的ITIL讲师,杨老师,aqzpedu.com,,json.response.source_blocks,,,B,机构官网/课程页,,json_source_block
+20260626,腾讯元宝,问题1,推荐好的ITIL讲师,m.aqzpedu.com,aqzpedu.com,,json.response.source_blocks,,,B,机构官网/课程页,,json_source_block
+20260626,腾讯元宝,问题2,推荐好的ITIL培训机构,"ITIL 4 Foundation认证培训全球认可,线上随学随考 - 中培动态 - 中培IT学院",aqzpedu.com,,json.response.source_blocks,,,B,机构官网/课程页,,json_source_block
+20260626,腾讯元宝,问题2,推荐好的ITIL培训机构,m.aqzpedu.com,aqzpedu.com,,json.response.source_blocks,,,B,机构官网/课程页,,json_source_block
+20260626,豆包,问题2,推荐好的ITIL培训机构,aqzpedu.com,aqzpedu.com,https://aqzpedu.com,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260626,豆包,问题2,推荐好的ITIL培训机构,https://m.aqzpedu.com/about/,aqzpedu.com,https://m.aqzpedu.com/about/,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260627,腾讯元宝,问题1,推荐好的ITIL讲师,杨老师,aqzpedu.com,,json.response.source_blocks,,,B,机构官网/课程页,,json_source_block
+20260627,腾讯元宝,问题1,推荐好的ITIL讲师,m.aqzpedu.com,aqzpedu.com,,json.response.source_blocks,,,B,机构官网/课程页,,json_source_block
+20260627,豆包,问题2,推荐好的ITIL培训机构,aqzpedu.com,aqzpedu.com,https://aqzpedu.com,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260627,豆包,问题2,推荐好的ITIL培训机构,https://m.aqzpedu.com/about/,aqzpedu.com,https://m.aqzpedu.com/about/,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260627,豆包,问题2,推荐好的ITIL培训机构,http://www.aqzpedu.com,aqzpedu.com,http://www.aqzpedu.com,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260701,豆包,问题2,推荐好的ITIL培训机构,北京中培伟业管理咨询有限公司_公司简介 - 中培 IT 学院,aqzpedu.com,https://m.aqzpedu.com/about/,追加追问,中培 IT 学院,机构推荐佐证,A,机构官网/课程页,在源中可见,markdown_table
+20260624,豆包,问题2,推荐好的ITIL培训机构,avtechcn.cn,avtechcn.cn,http://www.avtechcn.cn/course/itil/,正文/原始回答可见 URL,,,A,机构官网/课程页,,markdown_inline_url
+20260626,Kimi,问题1,推荐好的ITIL讲师,https://www.avtechcn.cn/peixun/ITIL/ITIL-4-Foundation/,avtechcn.cn,https://www.avtechcn.cn/peixun/ITIL/ITIL-4-Foundation/,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260627,Kimi,问题1,推荐好的ITIL讲师,avtechcn.cn,avtechcn.cn,https://www.avtechcn.cn/teacher/318.html,正文/原始回答可见 URL,,,A,机构官网/课程页,,markdown_inline_url
+20260701,豆包,问题2,推荐好的ITIL培训机构,avtechcn.cn,avtechcn.cn,http://www.avtechcn.cn/,正文/原始回答可见 URL,,,A,机构官网/课程页,,markdown_inline_url
+20260624,DeepSeek,问题1,推荐好的ITIL讲师,艾威的ITIL4授课老师专业吗？有什么特色？,avtechcn.com,http://www.avtechcn.com/itil/itilknowledgefaq/27874.html,追加追问第 1 轮,吴老师（艾威培训）,,A,机构官网/课程页,,markdown_table
+20260624,DeepSeek,问题1,推荐好的ITIL讲师,艾威的ITIL4授课老师专业吗？有什么特色？（重复来源，不同页面片段）,avtechcn.com,https://www.avtechcn.com/itil/itilknowledgefaq/27874.html,追加追问第 1 轮,吴老师（艾威培训）,,A,机构官网/课程页,,markdown_table
+20260624,DeepSeek,问题2,推荐好的ITIL培训机构,喜报！艾威通过PeopleCert官方认证更新，持续获批ITIL®5 ATO授权,avtechcn.com,https://www.avtechcn.com/infos/company-news/28089.html,追加追问第 1 轮,艾威 (Avtech),,A,机构官网/课程页,,markdown_table
+20260624,DeepSeek,问题2,推荐好的ITIL培训机构,艾威 ITIL Foundation (Version 5) 直播班圆满落幕,avtechcn.com,https://www.avtechcn.com/itil/28215.html,追加追问第 1 轮,艾威 (Avtech),,A,机构官网/课程页,,markdown_table
+20260624,DeepSeek,问题2,推荐好的ITIL培训机构,课程中心_职业认证_IT技术_企业内训课程,avtechcn.com,http://www.avtechcn.com/courses,追加追问第 1 轮,艾威 (Avtech),,A,机构官网/课程页,,markdown_table
+20260624,Kimi,问题1,推荐好的ITIL讲师,艾威培训ITIL 4 培训，ITIL 4 认证培训，ITIL 培训，ITIL 认证培训，ITIL 4 Foundation 培训,avtechcn.com,https://www.avtechcn.com/itil4/,追加追问第1轮,艾威培训（艾威老师）,,A,机构官网/课程页,,markdown_table
+20260624,Kimi,问题1,推荐好的ITIL讲师,ITIL® 4 Foundation认证培训（含考试）- 艾威培训,avtechcn.com,https://www.avtechcn.com/itil4-foundation/,追加追问第1轮,艾威培训,,A,机构官网/课程页,,markdown_table
+20260624,豆包,问题1,推荐好的ITIL讲师,avtechcn.com,avtechcn.com,https://www.avtechcn.com/corporate-training-case/11141.html,正文/原始回答可见 URL,,,A,机构官网/课程页,,markdown_inline_url
+20260624,豆包,问题1,推荐好的ITIL讲师,avtechcn.com,avtechcn.com,https://www.avtechcn.com/itil/itilknowledgefaq/27874.html,正文/原始回答可见 URL,,,A,机构官网/课程页,,markdown_inline_url
+20260624,豆包,问题2,推荐好的ITIL培训机构,avtechcn.com,avtechcn.com,https://www.avtechcn.com/about-us,正文/原始回答可见 URL,,,A,机构官网/课程页,,markdown_inline_url
+20260624,豆包,问题2,推荐好的ITIL培训机构,avtechcn.com,avtechcn.com,https://www.avtechcn.com/infos/company-news,正文/原始回答可见 URL,,,A,机构官网/课程页,,markdown_inline_url
+20260624,豆包,问题2,推荐好的ITIL培训机构,avtechcn.com,avtechcn.com,https://www.avtechcn.com/infos/company-news/28089.html,正文/原始回答可见 URL,,,A,机构官网/课程页,,markdown_inline_url
+20260626,Kimi,问题1,推荐好的ITIL讲师,avtechcn.com,avtechcn.com,https://www.avtechcn.com/itil/itilknowledgefaq/1174.html,正文/原始回答可见 URL,,,A,机构官网/课程页,,markdown_inline_url
+20260626,豆包,问题2,推荐好的ITIL培训机构,avtechcn.com,avtechcn.com,https://avtechcn.com,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260626,豆包,问题2,推荐好的ITIL培训机构,https://www.avtechcn.com/infos/company-news/28089.html,avtechcn.com,https://www.avtechcn.com/infos/company-news/28089.html,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260626,豆包,问题2,推荐好的ITIL培训机构,https://www.avtechcn.com/about-us,avtechcn.com,https://www.avtechcn.com/about-us,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260626,豆包,问题2,推荐好的ITIL培训机构,https://www.avtechcn.com/html/all-itil4,avtechcn.com,https://www.avtechcn.com/html/all-itil4,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260626,豆包,问题2,推荐好的ITIL培训机构,https://www.avtechcn.com/itil,avtechcn.com,https://www.avtechcn.com/itil,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260627,千问,问题2,推荐好的ITIL培训机构,ITIL认证的报名方式和申请流程是什么 - 艾威培训官网,avtechcn.com,https://www.avtechcn.com/news/2883.html,追加追问,艾威培训,机构推荐佐证,A,机构官网/课程页,在源中可见,markdown_table
+20260627,豆包,问题2,推荐好的ITIL培训机构,avtechcn.com,avtechcn.com,https://avtechcn.com,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260627,豆包,问题2,推荐好的ITIL培训机构,https://www.avtechcn.com/infos/company-news/28089.html,avtechcn.com,https://www.avtechcn.com/infos/company-news/28089.html,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260627,豆包,问题2,推荐好的ITIL培训机构,https://www.avtechcn.com/about-us,avtechcn.com,https://www.avtechcn.com/about-us,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260627,豆包,问题2,推荐好的ITIL培训机构,https://www.avtechcn.com/itil,avtechcn.com,https://www.avtechcn.com/itil,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260627,豆包,问题2,推荐好的ITIL培训机构,https://www.avtechcn.com/corporate-training-case/27527.html,avtechcn.com,https://www.avtechcn.com/corporate-training-case/27527.html,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260627,豆包,问题2,推荐好的ITIL培训机构,https://www.avtechcn.com/corporate-training-case/27379.html,avtechcn.com,https://www.avtechcn.com/corporate-training-case/27379.html,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260701,豆包,问题2,推荐好的ITIL培训机构,关于我们 - 艾威培训官网,avtechcn.com,https://www.avtechcn.com/about-us,追加追问,艾威培训,机构推荐佐证,A,机构官网/课程页,在源中可见,markdown_table
+20260701,豆包,问题2,推荐好的ITIL培训机构,PRINCE2 (第 7 版) 成功项目管理认证 - 艾威培训官网,avtechcn.com,https://www.avtechcn.com/prince2,追加追问,艾威培训,授权/认证背书,A,机构官网/课程页,在源中可见,markdown_table
+20260624,豆包,问题2,推荐好的ITIL培训机构,axelos.com,axelos.com,https://www.axelos.com/,正文/原始回答可见 URL,,,A,官方/认证体系,,markdown_inline_url
+20260701,Kimi,问题2,推荐好的ITIL培训机构,AXELOS官网,axelos.com,https://www.axelos.com/,原始回答 DOM 链接,ATO / 授权认证背景,授权/认证背书,A,官方/认证体系,在源中可见,markdown_table
+20260701,豆包,问题2,推荐好的ITIL培训机构,Axelos best practice certifications,axelos.com,https://www.axelos.com/certifications,追加追问,通用判断标准,授权/认证背书,A,官方/认证体系,在源中可见,markdown_table
+20260701,DeepSeek,问题1,推荐好的ITIL讲师,百度百科词条,baidu.com,,追加追问,隋继周,第三方口碑/背景,B,百科/搜索生态,在源中可见,markdown_table
+20260701,智谱清言,问题1,推荐好的ITIL讲师,原始回答域名片段：baidu.com,baidu.com,,原始回答直接可见,梁育刚,第三方口碑/背景,B,百科/搜索生态,在源中可见,markdown_table
+20260624,DeepSeek,问题1,推荐好的ITIL讲师,李远佳_百度百科,baike.baidu.com,https://baike.baidu.com/item/%e6%9d%8e%e8%bf%9c%e4%bd%b3/9300862,追加追问第 1 轮,李远佳,,A,百科/搜索生态,,markdown_table
+20260624,DeepSeek,问题1,推荐好的ITIL讲师,梁育刚_百度百科,baike.baidu.com,https://baike.baidu.com/item/%E6%A2%81%E8%82%B2%E5%88%9A/5686902,追加追问第 1 轮,梁育刚,,A,百科/搜索生态,,markdown_table
+20260624,DeepSeek,问题1,推荐好的ITIL讲师,隋继周_百度百科,baike.baidu.com,https://baike.baidu.com/item/%E9%9A%8B%E7%BB%A7%E5%91%A8,追加追问第 1 轮,隋继周,,A,百科/搜索生态,,markdown_table
+20260624,DeepSeek,问题1,推荐好的ITIL讲师,吴杰_百度百科,baike.baidu.com,https://baike.baidu.com/item/%E5%90%B4%E6%9D%B0/9472118,追加追问第 1 轮,吴杰（未直接推荐，行业背景参考）,,A,百科/搜索生态,,markdown_table
+20260624,DeepSeek,问题1,推荐好的ITIL讲师,baike.baidu.com,baike.baidu.com,https://baike.baidu.com/item/%E6%A2%81%E8%82%B2%E5%88%9A/5686902（追问页面一处显示为“梁色刚”编码,正文/原始回答可见 URL,,,A,百科/搜索生态,,markdown_inline_url
+20260624,DeepSeek,问题2,推荐好的ITIL培训机构,惠普IT管理学院,baike.baidu.com,https://baike.baidu.com/item/惠普IT管理学院/5878152,追加追问第 1 轮,惠普IT管理学院,,A,百科/搜索生态,,markdown_table
+20260627,千问,问题2,推荐好的ITIL培训机构,上海清晖管理咨询有限公司_百度百科,baike.baidu.com,https://baike.baidu.com/item/上海清晖管理咨询有限公司,追加追问,清晖项目管理培训,第三方口碑/背景,A,百科/搜索生态,在源中可见,markdown_table
+20260701,DeepSeek,问题2,推荐好的ITIL培训机构,惠普IT管理学院,baike.baidu.com,https://baike.baidu.com/item/%E6%83%A0%E6%99%AEIT%E7%AE%A1%E7%90%86%E5%AD%A6%E9%99%A2/5878152?noadapt=1,原始回答脚注,惠普IT管理学院,第三方口碑/背景,A,百科/搜索生态,在源中可见,markdown_table
+20260701,DeepSeek,问题2,推荐好的ITIL培训机构,腾科IT教育集团,baike.baidu.com,https://baike.baidu.com/item/%E8%85%BE%E7%A7%91IT%E6%95%99%E8%82%B2%E9%9B%86%E5%9B%A2/90748?svcp_stk=1_vy6dSeFsdJSXLCkhStqVlbCqApTRKH-k8k0mT6-VF55KZhZDFUMO-U2PAU58wOn2396GfXswPhYFe4UeXpUoRc92VYddDuA8_xrpbmqUTg6qfI39iXvXDYvKehaOrcTzS_27TUxcDFr6CECNfAIE9Jpq9D-Mzu4ub3bYtgkq3Hd0n2hf_l4G6E-10w03-_BO,原始回答脚注,腾科IT教育集团,第三方口碑/背景,A,百科/搜索生态,在源中可见,markdown_table
+20260701,DeepSeek,问题2,推荐好的ITIL培训机构,深圳市弘博创新管理咨询有限公司,baike.baidu.com,https://baike.baidu.com/item/%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%BC%98%E5%8D%9A%E5%88%9B%E6%96%B0%E7%AE%A1%E7%90%86%E5%92%A8%E8%AF%A2%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/14909543,原始回答脚注,弘博创新,第三方口碑/背景,A,百科/搜索生态,在源中可见,markdown_table
+20260624,Kimi,问题1,推荐好的ITIL讲师,谷安天下-华南区ITIL V3 Foundation培训推出团购活动！价格最低，培训质量最优，讲师-『 深圳 培训机构』,bbs.hh010.com,https://bbs.hh010.com/thread-163691-1-1.html,原始回答链接/引用面板,谷安天下,,A,问答/论坛/博客,,markdown_table
+20260624,豆包,问题2,推荐好的ITIL培训机构,bbs.hh010.com,bbs.hh010.com,https://bbs.hh010.com/thread-373245-1-1.html,正文/原始回答可见 URL,,,A,问答/论坛/博客,,markdown_inline_url
+20260626,智谱清言,问题1,推荐好的ITIL讲师,京ICP备20011824号-18,beian.miit.gov.cn,https://beian.miit.gov.cn/,,,,A,其他来源,,markdown_table
+20260701,智谱清言,问题2,推荐好的ITIL培训机构,原始回答域名片段：bilibili.com +1 / sohu.com +1,bilibili.com,,原始回答直接可见,深圳艾拓先锋,机构推荐佐证,B,其他来源,在源中可见,markdown_table
+20260624,豆包,问题1,推荐好的ITIL讲师,blog.csdn.net,blog.csdn.net,https://blog.csdn.net/weixin_46959162/article/details/147333253,正文/原始回答可见 URL,,,A,问答/论坛/博客,,markdown_inline_url
+20260626,Kimi,问题1,推荐好的ITIL讲师,blog.csdn.net,blog.csdn.net,https://blog.csdn.net/weixin_46959162/article/details/144332254,正文/原始回答可见 URL,,,A,问答/论坛/博客,,markdown_inline_url
+20260627,Kimi,问题1,推荐好的ITIL讲师,blog.csdn.net,blog.csdn.net,https://blog.csdn.net/weixin_46959162/article/details/144332254,正文/原始回答可见 URL,,,A,问答/论坛/博客,,markdown_inline_url
+20260701,腾讯元宝,问题1,推荐好的ITIL讲师,喜报丨恭贺雅菲奥朗刘峰老师荣获PeopleCert"ITIL和SRE官方大使"及"杰出授课讲师"殊荣,blog.csdn.net,https://blog.csdn.net/weixin_46959162/article/details/144332254,追加追问,刘峰,讲师推荐佐证,A,问答/论坛/博客,在源中可见,markdown_table
+20260701,豆包,问题1,推荐好的ITIL讲师,ITIL4 Overview,bmcsoftware.com,,追加追问,全体讲师资质筛选标准,背景资料,B,其他来源,在源中可见,markdown_table
+20260627,智谱清言,问题1,推荐好的ITIL讲师,book118.com,book118.com,,原始回答直接可见,刘通,讲师推荐佐证,B,其他来源,在源中可见,markdown_table
+20260624,豆包,问题2,推荐好的ITIL培训机构,canway.net,canway.net,https://www.canway.net/about,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260624,DeepSeek,问题1,推荐好的ITIL讲师,培训认证（云安全联盟大中华区讲师页）,c-csa.cn,https://www.c-csa.cn/mobile/training/teacher/page-5,追加追问第 1 轮,刘通（未直接推荐，补充参考）,,A,其他来源,,markdown_table
+20260624,豆包,问题2,推荐好的ITIL培训机构,ceprei.com,ceprei.com,https://www.ceprei.com/contents/241/18449.html,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260624,豆包,问题2,推荐好的ITIL培训机构,ceprei.org,ceprei.org,https://www.ceprei.org/h5/service/trainingservice/informationtechnology/,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260624,豆包,问题2,推荐好的ITIL培训机构,ceprei.org,ceprei.org,https://www.ceprei.org/h5/service/trainingservice/informationtechnology/612093224960069.shtml,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260624,豆包,问题1,推荐好的ITIL讲师,changeway.com.cn,changeway.com.cn,https://changeway.com.cn/news/5344.html,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260624,豆包,问题1,推荐好的ITIL讲师,changeway.com.cn,changeway.com.cn,https://www.changeway.com.cn/index.php?c=article&id=3737,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260624,豆包,问题1,推荐好的ITIL讲师,changeway.com.cn,changeway.com.cn,https://www.changeway.com.cn/prince2/index.html,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260626,豆包,问题2,推荐好的ITIL培训机构,changeway.com.cn,changeway.com.cn,https://changeway.com.cn,json.followup_response.links,,,A,其他来源,,json_link
+20260626,豆包,问题2,推荐好的ITIL培训机构,http://m.changeway.com.cn/index.php?a=type&c=article&tid=130,changeway.com.cn,http://m.changeway.com.cn/index.php?a=type&c=article&tid=130,json.followup_response.links,,,A,其他来源,,json_link
+20260626,豆包,问题2,推荐好的ITIL培训机构,https://www.changeway.com.cn/?mod=viewthread&tid=2820,changeway.com.cn,https://www.changeway.com.cn/?mod=viewthread&tid=2820,json.followup_response.links,,,A,其他来源,,json_link
+20260626,豆包,问题2,推荐好的ITIL培训机构,https://www.changeway.com.cn/question/8289.html,changeway.com.cn,https://www.changeway.com.cn/question/8289.html,json.followup_response.links,,,A,其他来源,,json_link
+20260626,豆包,问题2,推荐好的ITIL培训机构,http://www.changeway.com.cn/aboutus/honor2.html,changeway.com.cn,http://www.changeway.com.cn/aboutus/honor2.html,json.followup_response.links,,,A,其他来源,,json_link
+20260626,豆包,问题2,推荐好的ITIL培训机构,https://www.changeway.com.cn/itil/,changeway.com.cn,https://www.changeway.com.cn/itil/,json.followup_response.links,,,A,其他来源,,json_link
+20260627,千问,问题2,推荐好的ITIL培训机构,清晖简介-清晖项目管理培训,changeway.com.cn,https://www.changeway.com.cn,追加追问,清晖项目管理培训,机构推荐佐证,A,其他来源,在源中可见,markdown_table
+20260627,豆包,问题2,推荐好的ITIL培训机构,changeway.com.cn,changeway.com.cn,https://changeway.com.cn,json.followup_response.links,,,A,其他来源,,json_link
+20260627,豆包,问题2,推荐好的ITIL培训机构,https://www.changeway.com.cn/question/8289.html,changeway.com.cn,https://www.changeway.com.cn/question/8289.html,json.followup_response.links,,,A,其他来源,,json_link
+20260627,豆包,问题2,推荐好的ITIL培训机构,https://www.changeway.com.cn/itil/,changeway.com.cn,https://www.changeway.com.cn/itil/,json.followup_response.links,,,A,其他来源,,json_link
+20260627,智谱清言,问题2,推荐好的ITIL培训机构,changeway.com.cn,changeway.com.cn,,原始回答直接可见,清晖,机构推荐佐证,B,其他来源,在源中可见,markdown_table
+20260701,豆包,问题1,推荐好的ITIL讲师,为什么 ITIL 4 被称为“IT 界 MBA”?,changeway.com.cn,https://www.changeway.com.cn/question/8646.html,追加追问,Mike,讲师推荐佐证,A,其他来源,在源中可见,markdown_table
+20260701,豆包,问题2,推荐好的ITIL培训机构,上海清晖_清晖项目管理_清晖培训_清晖在线,changeway.com.cn,https://www.changeway.com.cn/aboutus/about.html,追加追问,清晖项目管理,机构推荐佐证,A,其他来源,在源中可见,markdown_table
+20260701,智谱清言,问题2,推荐好的ITIL培训机构,原始回答域名片段：changeway.com.cn +1 / keedu.cn,changeway.com.cn,,原始回答直接可见,清晖项目管理,机构推荐佐证,B,其他来源,在源中可见,markdown_table
+20260627,智谱清言,问题1,推荐好的ITIL讲师,china.com +2,china.com,,原始回答直接可见,孙振鹏,讲师推荐佐证,B,其他来源,在源中可见,markdown_table
+20260624,智谱清言,问题1,推荐好的ITIL讲师,页面仅暴露域名，未暴露标题,china-cas.org,,原始回答正文脚注/来源标记,王旭,,B,其他来源,,markdown_table
+20260627,智谱清言,问题1,推荐好的ITIL讲师,china-cas.org +1,china-cas.org,,原始回答直接可见,王旭,讲师推荐佐证,B,其他来源,在源中可见,markdown_table
+20260701,智谱清言,问题1,推荐好的ITIL讲师,原始回答域名片段：china-cas.org +1,china-cas.org,,原始回答直接可见,王旭,讲师推荐佐证,B,其他来源,在源中可见,markdown_table
+20260626,Kimi,问题2,推荐好的ITIL培训机构,https://www.chinaitol.com/,chinaitol.com,https://www.chinaitol.com/,json.followup_response.links,,,A,其他来源,,json_link
+20260624,豆包,问题1,推荐好的ITIL讲师,cnpmi.com,cnpmi.com,http://www.cnpmi.com/lizhiPhone/3g/index.php?p=about&lanmu=1,正文/原始回答可见 URL,,,A,官方/认证体系,,markdown_inline_url
+20260624,豆包,问题1,推荐好的ITIL讲师,cnpmi.com,cnpmi.com,http://www.cnpmi.com/lizhiPhone/3g/index.php?p=case_show&id=25&lanmu=3&c_id=3,正文/原始回答可见 URL,,,A,官方/认证体系,,markdown_inline_url
+20260627,智谱清言,问题1,推荐好的ITIL讲师,csdn.net +1,csdn.net,,原始回答直接可见,通过率/保过风险提醒,背景资料,B,问答/论坛/博客,在源中可见,markdown_table
+20260624,豆包,问题1,推荐好的ITIL讲师,cspm.china-cas.org,cspm.china-cas.org,https://cspm.china-cas.org/sqjs/1406.jhtml,正文/原始回答可见 URL,,,A,机构官网/课程页,,markdown_inline_url
+20260624,DeepSeek,问题1,推荐好的ITIL讲师,【梁育刚】英语怎么说_在线翻译_有道词典,dict.so.163.com,https://dict.so.163.com/w/eng/%e6%a2%81%e8%82%b2%e5%88%9a/#eBaike,追加追问第 1 轮,梁育刚,,A,其他来源,,markdown_table
+20260624,豆包,问题2,推荐好的ITIL培训机构,doc88.com,doc88.com,https://m.doc88.com/p-73474640057.html,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260624,DeepSeek,问题2,推荐好的ITIL培训机构,惠普IT管理学院：为学员找合适的云计算,doit.com.cn,https://www.doit.com.cn/p/120804.html,追加追问第 1 轮,惠普IT管理学院（佐证实战与行业影响力）,,A,其他来源,,markdown_table
+20260626,Kimi,问题1,推荐好的ITIL讲师,douban.com,douban.com,https://www.douban.com/group/topic/51462080/,正文/原始回答可见 URL,,,A,问答/论坛/博客,,markdown_inline_url
+20260627,Kimi,问题1,推荐好的ITIL讲师,douban.com,douban.com,https://www.douban.com/group/topic/51462080/,正文/原始回答可见 URL,,,A,问答/论坛/博客,,markdown_inline_url
+20260626,Kimi,问题1,推荐好的ITIL讲师,e.51cto.com,e.51cto.com,https://e.51cto.com/training_880.html,正文/原始回答可见 URL,,,A,机构官网/课程页,,markdown_inline_url
+20260624,豆包,问题2,推荐好的ITIL培训机构,easthome.cn,easthome.cn,http://www.easthome.cn/gongsiindex.html,正文/原始回答可见 URL,,,A,机构官网/课程页,,markdown_inline_url
+20260624,豆包,问题2,推荐好的ITIL培训机构,easthome.cn,easthome.cn,https://www.easthome.cn/,正文/原始回答可见 URL,,,A,机构官网/课程页,,markdown_inline_url
+20260701,豆包,问题2,推荐好的ITIL培训机构,东方瑞通 - 东方瑞通 IT 培训学校,easthome.cn,https://www.easthome.cn/ruitongzixun/2025-09-02/9152.html,追加追问,东方瑞通,机构推荐佐证,A,机构官网/课程页,在源中可见,markdown_table
+20260624,Kimi,问题2,推荐好的ITIL培训机构,ITIL培训/ITIL认证培训-东方瑞通,easthome.com,https://www.easthome.com/,追加追问第1轮,东方瑞通,,A,机构官网/课程页,,markdown_table
+20260624,豆包,问题1,推荐好的ITIL讲师,easthome.com,easthome.com,https://m.easthome.com/mindex/employees/detail?eid=3996&page.pn=89,正文/原始回答可见 URL,,,A,机构官网/课程页,,markdown_inline_url
+20260624,豆包,问题1,推荐好的ITIL讲师,easthome.com,easthome.com,https://m.easthome.com/mindexV2/employees/detailv2?eid=3919,正文/原始回答可见 URL,,,A,机构官网/课程页,,markdown_inline_url
+20260624,豆包,问题1,推荐好的ITIL讲师,easthome.com,easthome.com,https://www.easthome.com/front/institutes/reveal?no=001&iid=2,正文/原始回答可见 URL,,,A,机构官网/课程页,,markdown_inline_url
+20260626,Kimi,问题2,推荐好的ITIL培训机构,https://www.easthome.com/kecheng/kecheng_89.html,easthome.com,https://www.easthome.com/kecheng/kecheng_89.html,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260626,Kimi,问题2,推荐好的ITIL培训机构,https://www.easthome.com/,easthome.com,https://www.easthome.com/,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260627,Kimi,问题2,推荐好的ITIL培训机构,https://www.easthome.com/ITIL,easthome.com,https://www.easthome.com/ITIL,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260627,Kimi,问题2,推荐好的ITIL培训机构,https://www.easthome.com/ITIL/ITIL4,easthome.com,https://www.easthome.com/ITIL/ITIL4,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260627,Kimi,问题2,推荐好的ITIL培训机构,https://www.easthome.com/,easthome.com,https://www.easthome.com/,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260627,智谱清言,问题1,推荐好的ITIL讲师,easthome.com,easthome.com,,原始回答直接可见,祝文彬,讲师推荐佐证,B,机构官网/课程页,在源中可见,markdown_table
+20260701,腾讯元宝,问题1,推荐好的ITIL讲师,东方瑞通培训讲师团——祝文彬 高级讲师,easthome.com,https://m.easthome.com/mindexV2/employees/detailv2?eid=3919,追加追问,祝文彬,讲师推荐佐证,A,机构官网/课程页,在源中可见,markdown_table
+20260701,腾讯元宝,问题1,推荐好的ITIL讲师,PeopleCert ITIL 4大师训练营课程(含考试) / ITIL 4大师训练营即将开课,easthome.com,https://www.easthome.com/class/classDetail/25402 及 https://m.easthome.com/mindex/article/7692/remark,追加追问,艾威培训ITIL讲师团队,讲师推荐佐证,A,机构官网/课程页,在源中可见,markdown_table
+20260701,腾讯元宝,问题1,推荐好的ITIL讲师,easthome.com,easthome.com,https://m.easthome.com/mindex/article/7692/remark,正文/原始回答可见 URL,,,A,机构官网/课程页,,markdown_inline_url
+20260701,腾讯元宝,问题1,推荐好的ITIL讲师,easthome.com,easthome.com,https://www.easthome.com/class/classDetail/25402,正文/原始回答可见 URL,,,A,机构官网/课程页,,markdown_inline_url
+20260701,豆包,问题1,推荐好的ITIL讲师,祝文彬 讲师介绍,easthome.com,https://www.easthome.com/front/employees/3919/detailTea,追加追问,祝文彬,讲师推荐佐证,A,机构官网/课程页,在源中可见,markdown_table
+20260701,豆包,问题2,推荐好的ITIL培训机构,瑞通历史 - 东方瑞通终身学习培训机构,easthome.com,https://www.easthome.com/front/companyHistorys/history,追加追问,东方瑞通,机构推荐佐证,A,机构官网/课程页,在源中可见,markdown_table
+20260701,智谱清言,问题1,推荐好的ITIL讲师,原始回答域名片段：easthome.com +1 / jjerw.com,easthome.com,,原始回答直接可见,祝文彬,讲师推荐佐证,B,机构官网/课程页,在源中可见,markdown_table
+20260624,豆包,问题1,推荐好的ITIL讲师,edu.51cto.com,edu.51cto.com,https://edu.51cto.com/mic-position/1223.html,正文/原始回答可见 URL,,,A,机构官网/课程页,,markdown_inline_url
+20260626,Kimi,问题1,推荐好的ITIL讲师,https://edu.51cto.com/course/35559.html,edu.51cto.com,https://edu.51cto.com/course/35559.html,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260627,Kimi,问题2,推荐好的ITIL培训机构,https://edu.51cto.com/course/1554.html,edu.51cto.com,https://edu.51cto.com/course/1554.html,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260627,Kimi,问题2,推荐好的ITIL培训机构,https://edu.51cto.com/course/1553.html,edu.51cto.com,https://edu.51cto.com/course/1553.html,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260627,Kimi,问题2,推荐好的ITIL培训机构,https://edu.51cto.com/lecturer/135.html,edu.51cto.com,https://edu.51cto.com/lecturer/135.html,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260624,豆包,问题1,推荐好的ITIL讲师,edu.avtechcn.com,edu.avtechcn.com,http://edu.avtechcn.com/goods/show/41?preview=0&targetId=340,正文/原始回答可见 URL,,,A,机构官网/课程页,,markdown_inline_url
+20260627,智谱清言,问题2,推荐好的ITIL培训机构,educity.cn +1,educity.cn,,原始回答直接可见,考试形式和证书有效期,背景资料,B,其他来源,在源中可见,markdown_table
+20260701,Kimi,问题1,推荐好的ITIL讲师,希赛 ITIL 4 Foundation 课程页,educity.cn,https://www.educity.cn/itil/2338564.html,原始回答 DOM 链接,希赛网,机构推荐佐证,A,其他来源,在源中可见,markdown_table
+20260626,Kimi,问题2,推荐好的ITIL培训机构,https://www.edusoho.com/article/2646.html,edusoho.com,https://www.edusoho.com/article/2646.html,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260627,腾讯元宝,问题1,推荐好的ITIL讲师,Radu Gheorghiu,en.serview.de,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260627,腾讯元宝,问题1,推荐好的ITIL讲师,en.serview.de,en.serview.de,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260626,腾讯元宝,问题2,推荐好的ITIL培训机构,Best ITIL Foundation Certification Training Courses 2026,exam-prep.org,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260624,豆包,问题1,推荐好的ITIL讲师,exinchina.cn,exinchina.cn,https://www.exinchina.cn/examinee/dom/24,正文/原始回答可见 URL,,,A,官方/认证体系,,markdown_inline_url
+20260624,豆包,问题2,推荐好的ITIL培训机构,exinchina.cn,exinchina.cn,https://exinchina.cn/index.php/authenticate/show/13,正文/原始回答可见 URL,,,A,官方/认证体系,,markdown_inline_url
+20260624,豆包,问题2,推荐好的ITIL培训机构,exinchina.cn,exinchina.cn,https://exinchina.cn/index.php/authenticate/show/5,正文/原始回答可见 URL,,,A,官方/认证体系,,markdown_inline_url
+20260626,腾讯元宝,问题1,推荐好的ITIL讲师,刘 通,exinchina.cn,,json.response.source_blocks,,,B,官方/认证体系,,json_source_block
+20260626,腾讯元宝,问题1,推荐好的ITIL讲师,exinchina.cn,exinchina.cn,,json.response.source_blocks,,,B,官方/认证体系,,json_source_block
+20260701,豆包,问题2,推荐好的ITIL培训机构,exinchina.cn,exinchina.cn,https://exinchina.cn/index.php/authenticate/show/5,正文/原始回答可见 URL,,,A,官方/认证体系,,markdown_inline_url
+20260627,千问,问题2,推荐好的ITIL培训机构,15个国外免费在线课程和学习资源网站/App,extrabux.com,,追加追问,Udemy,背景资料,B,其他来源,在源中可见,markdown_table
+20260627,Kimi,问题2,推荐好的ITIL培训机构,fanxuefei.com,fanxuefei.com,http://m.fanxuefei.com/kecheng/n397465_kecheng.html,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260627,智谱清言,问题2,推荐好的ITIL培训机构,fourmas.com,fourmas.com,,原始回答直接可见,四硕培训,机构推荐佐证,B,其他来源,在源中可见,markdown_table
+20260701,DeepSeek,问题2,推荐好的ITIL培训机构,中联旭诚相关页面,gkket.com,https://gkket.com/thread-280110-1-1.html,原始回答脚注,北京中联旭诚,机构推荐佐证,A,其他来源,在源中可见,markdown_table
+20260701,DeepSeek,问题2,推荐好的ITIL培训机构,中联旭诚相关页面,gkket.com,https://gkket.com/forum.php?mod=viewthread&action=printable&tid=293686,原始回答脚注,北京中联旭诚,机构推荐佐证,A,其他来源,在源中可见,markdown_table
+20260624,豆包,问题2,推荐好的ITIL培训机构,gooann.com,gooann.com,http://www.gooann.com/index.php?m=&c=Index&a=lists&catid=30,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260624,Kimi,问题1,推荐好的ITIL讲师,ITIL®4 Foundation认证培训 - 谷安天下,gookuai.com,https://www.gookuai.com/peixun/itil4-foundation-renzheng-peixun/,追加追问第1轮,谷安天下（李鹏飞等讲师）,,A,其他来源,,markdown_table
+20260626,Kimi,问题2,推荐好的ITIL培训机构,https://www.haoxuexiao.com/course/143373.html,haoxuexiao.com,https://www.haoxuexiao.com/course/143373.html,json.followup_response.links,,,A,其他来源,,json_link
+20260701,DeepSeek,问题1,推荐好的ITIL讲师,厚学网个人页面,houxue.com,,追加追问,吴老师,第三方口碑/背景,B,其他来源,在源中可见,markdown_table
+20260624,智谱清言,问题2,推荐好的ITIL培训机构,页面仅暴露域名，未暴露标题,huodongjia.com,,原始回答正文脚注/来源标记,思科源、程秀野,,B,其他来源,,markdown_table
+20260626,智谱清言,问题2,推荐好的ITIL培训机构,页面仅暴露域名，未暴露标题,huodongjia.com,,原始回答正文脚注/来源标记,思科源、程秀野,第三方口碑/背景,B,其他来源,在源中可见,markdown_table
+20260626,智谱清言,问题2,推荐好的ITIL培训机构,思科源,huodongjia.com,https://www.huodongjia.com/,json.response.links,,,A,其他来源,,json_link
+20260626,智谱清言,问题2,推荐好的ITIL培训机构,huodongjia.com,huodongjia.com,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260627,智谱清言,问题1,推荐好的ITIL讲师,huodongjia.com,huodongjia.com,,原始回答直接可见,程秀野,讲师推荐佐证,B,其他来源,在源中可见,markdown_table
+20260627,智谱清言,问题2,推荐好的ITIL培训机构,huodongjia.com,huodongjia.com,,原始回答直接可见,思科源,机构推荐佐证,B,其他来源,在源中可见,markdown_table
+20260626,豆包,问题2,推荐好的ITIL培训机构,huodongxing.com,huodongxing.com,https://huodongxing.com,json.followup_response.links,,,A,其他来源,,json_link
+20260627,豆包,问题2,推荐好的ITIL培训机构,huodongxing.com,huodongxing.com,https://huodongxing.com,json.followup_response.links,,,A,其他来源,,json_link
+20260701,智谱清言,问题1,推荐好的ITIL讲师,原始回答域名片段：infoq.cn +1 / csdn.net,infoq.cn,,原始回答直接可见,刘峰,讲师推荐佐证,B,其他来源,在源中可见,markdown_table
+20260624,豆包,问题2,推荐好的ITIL培训机构,isaca.org.cn,isaca.org.cn,https://www.isaca.org.cn/enterprise/atos/avtech,正文/原始回答可见 URL,,,A,官方/认证体系,,markdown_inline_url
+20260701,智谱清言,问题2,推荐好的ITIL培训机构,原始回答域名片段：isaca.org.cn +1 / sohu.com +1,isaca.org.cn,,原始回答直接可见,艾威培训,机构推荐佐证,B,官方/认证体系,在源中可见,markdown_table
+20260701,豆包,问题2,推荐好的ITIL培训机构,艾威培训服务 - 企业培训 \,it 培训 \,,avtechcn.cn,http://www.avtechcn.cn/,追加追问,B,其他来源,机构推荐佐证,markdown_table
+20260624,Kimi,问题2,推荐好的ITIL培训机构,ITIL® 4 Foundation认证培训课程等多个模块课程,it.sjtuit.com,https://it.sjtuit.com/,追加追问第1轮,上海交大教育集团IT研究院,,A,其他来源,,markdown_table
+20260701,豆包,问题2,推荐好的ITIL培训机构,牵手 “IT MBA” 51CTO 通过 ITIL 官方授权认证,itcloudbd.com,https://itcloudbd.com/yundongtai/4529.html,追加追问,51CTO 学堂,机构推荐佐证,A,强断言相关来源,在源中可见,markdown_table
+20260624,DeepSeek,问题2,推荐好的ITIL培训机构,ITIL AI Governance White Paper,itil.com,https://www.itil.com//-/media/itilsite/site-assets/documents/itil-ai-governance/itil-ai-governance-white-paper-2025.pdf,追加追问第 1 轮,ITIL 5/AI治理前沿内容,,A,其他来源,,markdown_table
+20260626,腾讯元宝,问题2,推荐好的ITIL培训机构,Welcome to ITIL,itil.com,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260626,腾讯元宝,问题2,推荐好的ITIL培训机构,itil.com,itil.com,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260627,腾讯元宝,问题2,推荐好的ITIL培训机构,"DASA､EXIN､ITSS､The Open Group等全球官方授权培训认证机构,思科源拥有顶级...",itil4 foundation远程直播课程,,json.response.source_blocks,,,B,强断言相关来源,,json_source_block
+20260624,豆包,问题1,推荐好的ITIL讲师,itil4hub.cn,itil4hub.cn,http://itil4hub.cn/bin/view/ITIL%204%E3%80%8A%E6%95%B0%E5%AD%97%E5%8C%96%E5%92%8CIT%E6%88%98%E7%95%A5%E3%80%8BDITS/,正文/原始回答可见 URL,,,A,自有/核心阵地,,markdown_inline_url
+20260624,豆包,问题1,推荐好的ITIL讲师,itil4hub.cn,itil4hub.cn,https://www.itil4hub.cn/bin/view/D%20%E3%80%8AITIL%204%E6%9C%8D%E5%8A%A1%E7%AE%A1%E7%90%86%E8%AE%A4%E8%AF%81%E8%80%83%E8%AF%95%E6%8C%87%E5%8D%97%E3%80%8B/%E5%89%8D%E8%A8%80/,正文/原始回答可见 URL,,,A,自有/核心阵地,,markdown_inline_url
+20260626,Kimi,问题1,推荐好的ITIL讲师,itil4hub.cn,itil4hub.cn,http://itil4hub.cn/bin/view/ITIL4%E8%AE%A4%E8%AF%81%E5%9F%B9%E8%AE%AD%E8%80%83%E8%AF%95%E8%B5%84%E6%96%99/ITIL%20Master%E8%AE%A4%E8%AF%81%E8%AF%A6%E7%BB%86%E6%8C%87%E5%8D%97/,正文/原始回答可见 URL,,,A,自有/核心阵地,,markdown_inline_url
+20260626,腾讯元宝,问题1,推荐好的ITIL讲师,长河老师简介,itil4hub.cn,,json.response.source_blocks,,,B,自有/核心阵地,,json_source_block
+20260626,腾讯元宝,问题1,推荐好的ITIL讲师,itil4hub.cn,itil4hub.cn,,json.response.source_blocks,,,B,自有/核心阵地,,json_source_block
+20260627,Kimi,问题1,推荐好的ITIL讲师,itil4hub.cn,itil4hub.cn,http://itil4hub.cn/bin/view/ITIL4%E8%AE%A4%E8%AF%81%E5%9F%B9%E8%AE%AD%E8%80%83%E8%AF%95%E8%B5%84%E6%96%99/ITIL%20Master%E8%AE%A4%E8%AF%81%E8%AF%A6%E7%BB%86%E6%8C%87%E5%8D%97/,正文/原始回答可见 URL,,,A,自有/核心阵地,,markdown_inline_url
+20260627,腾讯元宝,问题1,推荐好的ITIL讲师,长河老师简介,itil4hub.cn,,json.response.source_blocks,,,B,自有/核心阵地,,json_source_block
+20260701,腾讯元宝,问题1,推荐好的ITIL讲师,《ITIL4服务管理认证考试指南》发布会 / 长河老师介绍,itil4hub.cn,https://www.itil4hub.cn/bin/view/99ITIL%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E8%B7%B5%E5%AD%A6%E4%B9%A0/99-A%20%20ITIL%E5%AD%A6%E4%B9%A0%E4%B8%8E%E5%AE%9E%E8%B7%B5/29%20352%E6%9C%9F%20%E3%80%8AITIL4%E6%9C%8D%E5%8A%A1%E7%AE%A1%E7%90%86%E8%AE%A4%E8%AF%81%E8%80%83%E8%AF%95%E6%8C%87%E5%8D%97%E3%80%8B%E5%8F%91%E5%B8%83%E4%BC%9A/?viewer=code&rev=2.1&language=zh_CN,追加追问,长河（曹坤良）,讲师推荐佐证,A,自有/核心阵地,在源中可见,markdown_table
+20260701,豆包,问题1,推荐好的ITIL讲师,长河老师简介,itil4hub.cn,https://www.itil4hub.cn/bin/view/%E9%95%BF%E6%B2%B3%20ITIL%204%20%E4%B8%93%E6%A0%8F%E6%96%87%E7%AB%A0/%E9%95%BF%E6%B2%B3%E8%80%81%E5%B8%88%E4%BB%8B%E7%BB%8D/,追加追问,长河（曹坤良）,讲师推荐佐证,A,自有/核心阵地,在源中可见,markdown_table
+20260701,豆包,问题1,推荐好的ITIL讲师,ITIL4 核心著作 - ⑥《数字化和 IT 战略》DITS,itil4hub.cn,https://www.itil4hub.cn/bin/view/ITIL%204%E3%80%8A%E6%95%B0%E5%AD%97%E5%8C%96%E5%92%8CIT%E6%88%98%E7%95%A5%E3%80%8BDITS/,追加追问,长河（曹坤良）,讲师推荐佐证,A,自有/核心阵地,在源中可见,markdown_table
+20260701,豆包,问题2,推荐好的ITIL培训机构,2025 年，ITIL 4 认证考试报名官网及推荐渠道全面解析,itil4hub.cn,,追加追问,通用判断标准,背景资料,B,自有/核心阵地,在源中可见,markdown_table
+20260701,豆包,问题2,推荐好的ITIL培训机构,2025 年，如何查询 ITIL 4 认证证书？操作步骤与注意事项,itil4hub.cn,,追加追问,艾拓先锋/华南本地机构,背景资料,B,自有/核心阵地,在源中可见,markdown_table
+20260624,DeepSeek,问题1,推荐好的ITIL讲师,ITIL 4 Foundation培训+考试课程，长河（曹坤良）讲师亲授,itilchina.cn,https://www.itilchina.cn/achotsao/vip_doc/28929036.html,追加追问第 1 轮,长河（曹坤良）,,A,自有/核心阵地,,markdown_table
+20260624,DeepSeek,问题1,推荐好的ITIL讲师,ITIL 4 中级培训+考试课程 实践经理模块：监控、支持和履行（MSF）长河（曹坤良）讲师亲授,itilchina.cn,https://www.itilchina.cn/achotsao/vip_doc/28929003.html,追加追问第 1 轮,长河（曹坤良）,,A,自有/核心阵地,,markdown_table
+20260624,DeepSeek,问题1,推荐好的ITIL讲师,ITIL 4 中级培训+考试课程 管理模块MP：高速IT（HVIT）长河（曹坤良）讲师亲授,itilchina.cn,https://www.itilchina.cn/achotsao/vip_doc/28929028.html,追加追问第 1 轮,长河（曹坤良）,,A,自有/核心阵地,,markdown_table
+20260624,豆包,问题1,推荐好的ITIL讲师,itilchina.cn,itilchina.cn,http://www.itilchina.cn/achotsao/wap_doc/23318644.html,正文/原始回答可见 URL,,,A,自有/核心阵地,,markdown_inline_url
+20260624,智谱清言,问题1,推荐好的ITIL讲师,页面仅暴露域名，未暴露标题,itilchina.cn,,原始回答正文脚注/来源标记,长河、陈睿智、ITIL先锋论坛,,B,自有/核心阵地,,markdown_table
+20260701,DeepSeek,问题1,推荐好的ITIL讲师,ITIL中国社区文章《2025年，哪些杰出ITIL讲师的峰会演讲成了业界焦点？》,itilchina.cn,,追加追问,长河老师,讲师推荐佐证,B,自有/核心阵地,在源中可见,markdown_table
+20260701,腾讯元宝,问题1,推荐好的ITIL讲师,祝贺长河老师荣获PeopleCert中国区"优秀授课讲师"称号!,itilchina.cn,https://www.itilchina.cn/achotsao/vip_doc/27569337.html,追加追问,长河（曹坤良）,讲师推荐佐证,A,自有/核心阵地,在源中可见,markdown_table
+20260701,豆包,问题1,推荐好的ITIL讲师,ITIL 4 中级培训 + 考试课程 管理模块 MP: 高速 IT (HVIT) 长河 (曹坤良) 讲师亲授,itilchina.cn,https://www.itilchina.cn/achotsao/wap_doc/28929028.html,追加追问,长河（曹坤良）,讲师推荐佐证,A,自有/核心阵地,在源中可见,markdown_table
+20260624,Kimi,问题1,推荐好的ITIL讲师,2025年，哪些机构获得了ITIL 4 讲师资质？ - ITIL认证学习和流程落地实践专栏,itil-foundation.cn,https://itil-foundation.cn/thread-364708-1-1.html,原始回答链接/引用面板,艾拓先锋,,A,其他来源,,markdown_table
+20260626,Kimi,问题1,推荐好的ITIL讲师,https://www.itil-pmp.cn/teacher/,itil-pmp.cn,https://www.itil-pmp.cn/teacher/,json.followup_response.links,,,A,其他来源,,json_link
+20260624,DeepSeek,问题1,推荐好的ITIL讲师,ITIL先锋论坛《综合管理技能》系列讲堂12讲,itilxf.com,https://www.itilxf.com/thread-364322-1-2.html,追加追问第 1 轮,长河（曹坤良）、吴言（补充提及）,,A,自有/核心阵地,,markdown_table
+20260624,Kimi,问题1,推荐好的ITIL讲师,国内ITIL 4大师级授权培训机构排名前五，ITIL 4认证培训费用对比 - 艾拓先锋,itilxf.com,https://www.itilxf.com/,追加追问第1轮,艾拓先锋,,A,自有/核心阵地,,markdown_table
+20260624,豆包,问题1,推荐好的ITIL讲师,itilxf.com,itilxf.com,https://www.itilxf.com/,正文/原始回答可见 URL,,,A,自有/核心阵地,,markdown_inline_url
+20260624,豆包,问题1,推荐好的ITIL讲师,itilxf.com,itilxf.com,https://www.itilxf.com/thread-139564-1-1.html,正文/原始回答可见 URL,,,A,自有/核心阵地,,markdown_inline_url
+20260624,豆包,问题1,推荐好的ITIL讲师,itilxf.com,itilxf.com,https://www.itilxf.com/thread-363357-1-1.html,正文/原始回答可见 URL,,,A,自有/核心阵地,,markdown_inline_url
+20260624,豆包,问题2,推荐好的ITIL培训机构,itilxf.com,itilxf.com,https://www.itilxf.com/thread-29899-1-1.html,正文/原始回答可见 URL,,,A,自有/核心阵地,,markdown_inline_url
+20260624,智谱清言,问题1,推荐好的ITIL讲师,页面仅暴露域名，未暴露标题,itilxf.com,,原始回答正文脚注/来源标记,ITIL 版本更新背景,,B,自有/核心阵地,,markdown_table
+20260627,智谱清言,问题1,推荐好的ITIL讲师,itilxf.com,itilxf.com,,原始回答直接可见,长河/ITIL先锋论坛公开课,讲师推荐佐证,B,自有/核心阵地,在源中可见,markdown_table
+20260627,腾讯元宝,问题2,推荐好的ITIL培训机构,2019年新年伊始我们就收到来自北京Exin DevOps Professional认证培训班的好消...,itil认证培训官方授权机构,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260626,腾讯元宝,问题2,推荐好的ITIL培训机构,ITIL认证培训机构 认证机构 石家庄腾科IT教育 6条评价 百教招生平台返学费 1个校区 1...,itil认证培训机构排名推荐,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260627,腾讯元宝,问题2,推荐好的ITIL培训机构,ITIL认证培训机构 认证机构 石家庄腾科IT教育 10条评价 百教招生平台返学费 1个校区 172...,itil认证培训机构排名推荐,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260627,腾讯元宝,问题2,推荐好的ITIL培训机构,"10 大城市均设有 ITIL 培训,北京､上海､广州､深圳､天津､重庆､成都､ 武汉､济南､西安循环...",itil认证培训课程,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260626,腾讯元宝,问题2,推荐好的ITIL培训机构,"最早授权的培训机构,在 ITIL 培训方面学员市场占有率及通过率､好评率位列 ITIL 培训机构排名第一｡",itil在国内的认证培训机构集锦,,json.response.source_blocks,,,B,强断言相关来源,,json_source_block
+20260627,智谱清言,问题1,推荐好的ITIL讲师,itlead.com.cn,itlead.com.cn,,原始回答直接可见,刘宁,讲师推荐佐证,B,其他来源,在源中可见,markdown_table
+20260701,豆包,问题1,推荐好的ITIL讲师,"Webinar – Getting started with ITIL 4 Create, Deliver and Support",itsmf.co.uk,https://www.itsmf.co.uk/event/webinar-getting-started-with-itil-4-create-deliver-and-support/,追加追问,全体讲师资质筛选标准,背景资料,A,其他来源,在源中可见,markdown_table
+20260626,腾讯元宝,问题1,推荐好的ITIL讲师,讲师介绍 刘宁老师 EXIN官方认证高级ITIL讲师､微软十大金牌讲师､微软最有价值专家(MVP)...,it服务管理itil精要,,json.response.source_blocks,,,B,强断言相关来源,,json_source_block
+20260627,腾讯元宝,问题2,推荐好的ITIL培训机构,ITIL4 Foundation远程直播课程,it互联网,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260624,DeepSeek,问题1,推荐好的ITIL讲师,紫羚云CEO梁育刚：数字化转型是数据资产累积并利用的过程丨数字经济100人谈,iyiou.com,https://www.iyiou.com/interview/202109171022238,追加追问第 1 轮,梁育刚,,A,媒体文章,,markdown_table
+20260624,Kimi,问题2,推荐好的ITIL培训机构,ITIL培训-交大慧谷,jdhgedu.com,https://www.jdhgedu.com/,追加追问第1轮,交大慧谷,,A,其他来源,,markdown_table
+20260626,Kimi,问题2,推荐好的ITIL培训机构,https://www.jdhigu.com/kecheng/kecheng_89.html,jdhigu.com,https://www.jdhigu.com/kecheng/kecheng_89.html,json.followup_response.links,,,A,其他来源,,json_link
+20260627,Kimi,问题2,推荐好的ITIL培训机构,https://www.jdhigu.com/kecheng/ITIL,jdhigu.com,https://www.jdhigu.com/kecheng/ITIL,json.followup_response.links,,,A,其他来源,,json_link
+20260624,DeepSeek,问题1,推荐好的ITIL讲师,隋继周老师（讲师页）,jiangshi.site,https://www.jiangshi.site/scgl/qita/qtjs/m917,追加追问第 1 轮,隋继周,,A,其他来源,,markdown_table
+20260624,豆包,问题1,推荐好的ITIL讲师,jiangshi99.com,jiangshi99.com,https://m.jiangshi99.com/introduction/wangxu456,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260627,智谱清言,问题1,推荐好的ITIL讲师,jiangshi99.com,jiangshi99.com,,原始回答直接可见,邓宏,讲师推荐佐证,B,其他来源,在源中可见,markdown_table
+20260624,豆包,问题1,推荐好的ITIL讲师,jiaoyubao.cn,jiaoyubao.cn,https://www.jiaoyubao.cn/edu/dllzjypx/details.html,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260624,智谱清言,问题2,推荐好的ITIL培训机构,页面仅暴露域名，未暴露标题,jiaoyubao.cn,,原始回答正文脚注/来源标记,上海交大教育集团,,B,其他来源,,markdown_table
+20260626,智谱清言,问题2,推荐好的ITIL培训机构,页面仅暴露域名，未暴露标题,jiaoyubao.cn,,原始回答正文脚注/来源标记,上海交大教育集团,第三方口碑/背景,B,其他来源,在源中可见,markdown_table
+20260626,智谱清言,问题2,推荐好的ITIL培训机构,上海交大教育集团,jiaoyubao.cn,https://jiaoyubao.cn/,json.response.links,,,A,其他来源,,json_link
+20260626,智谱清言,问题2,推荐好的ITIL培训机构,jiaoyubao.cn,jiaoyubao.cn,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260701,Kimi,问题1,推荐好的ITIL讲师,KnowledgeHut ITIL Foundation 认证流程,knowledgehut.com,https://www.knowledgehut.com/info/it-service-management/itil-foundation-certification-process,原始回答 DOM 链接,KnowledgeHut,机构推荐佐证,A,其他来源,在源中可见,markdown_table
+20260626,腾讯元宝,问题1,推荐好的ITIL讲师,上海祝文彬老师,linux.peixun360.com,,json.response.source_blocks,,,B,百科/搜索生态,,json_source_block
+20260701,Kimi,问题1,推荐好的ITIL讲师,Lumify Work ITIL trainer 文章,lumifywork.com,https://www.lumifywork.com/en-nz/blog/keeping-your-it-service-delivery-fit-and-agile-insights-from-our-itil-trainer/,原始回答 DOM 链接,Lumify Work,机构推荐佐证 / 背景资料,A,其他来源,在源中可见,markdown_table
+20260624,DeepSeek,问题1,推荐好的ITIL讲师,隋继周——实战派项目管理专家与教练,minjiekaifa.com,https://www.minjiekaifa.com/agilecoaches/the-lecturer-of-management-suijizhou-200.mhtml,追加追问第 1 轮,隋继周,,A,其他来源,,markdown_table
+20260624,豆包,问题1,推荐好的ITIL讲师,minjiekaifa.com,minjiekaifa.com,https://www.minjiekaifa.com/agilecoaches/the-lecturer-of-devops-liutong-172.html,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260624,Kimi,问题1,推荐好的ITIL讲师,你们找IT部门解决问题，最大的槽点是什么？找不到人？响应慢？问题反复？,mp.weixin.qq.com,https://mp.weixin.qq.com/s?__biz=MjM5NTE3MjcwMw==&mid=2649825027&idx=1&sn=563c66cea7e305b9d9783062b7e8e9f9,原始回答链接/引用面板,艾威培训/艾威老师,,A,其他来源,,markdown_table
+20260627,千问,问题2,推荐好的ITIL培训机构,技术学习资源大盘点：在线课程与学习平台推荐,mp.weixin.qq.com,,追加追问,Udemy,背景资料,B,其他来源,在源中可见,markdown_table
+20260701,腾讯元宝,问题1,推荐好的ITIL讲师,王旭老师简介——国内IT培训金牌讲师（ITIL/ITSM/项目管理）,mp.weixin.qq.com,http://mp.weixin.qq.com/s?__biz=Mzg5NjY2MTc3NA==&mid=2247491170&idx=7&sn=348613bdca1925a0d105aa6327080586&chksm=c132c973fa3cdb2b01b9a2dbb209c7824ef3f233ad6fa69b01eaeb91c7948ee8c548e9edae0e#rd,追加追问,王旭,讲师推荐佐证,A,其他来源,在源中可见,markdown_table
+20260626,豆包,问题2,推荐好的ITIL培训机构,mypm.net,mypm.net,https://mypm.net,json.followup_response.links,,,A,其他来源,,json_link
+20260626,豆包,问题2,推荐好的ITIL培训机构,http://www.mypm.net/certification/prince2/apmg/,mypm.net,http://www.mypm.net/certification/prince2/apmg/,json.followup_response.links,,,A,其他来源,,json_link
+20260624,豆包,问题2,推荐好的ITIL培训机构,njwhjy.cn,njwhjy.cn,http://m.njwhjy.cn/,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260624,DeepSeek,问题2,推荐好的ITIL培训机构,在线企业架构培训,nobleprog.cn,https://www.nobleprog.cn/qiyejiagou/peixun/online,追加追问第 1 轮,诺波 (Nobleprog),,A,其他来源,,markdown_table
+20260624,DeepSeek,问题2,推荐好的ITIL培训机构,广州企业架构培训,nobleprog.cn,https://www.nobleprog.cn/qiyejiagou/peixun/guangzhou,追加追问第 1 轮,诺波 (Nobleprog),,A,其他来源,,markdown_table
+20260701,DeepSeek,问题2,推荐好的ITIL培训机构,中关村ITIL培训,nobleprog.cn,https://www.nobleprog.cn/itil/peixun/zhongguancun,原始回答脚注,诺波,机构推荐佐证,A,其他来源,在源中可见,markdown_table
+20260701,DeepSeek,问题2,推荐好的ITIL培训机构,深圳ITIL培训,nobleprog.cn,https://www.nobleprog.cn/itil/peixun/shenzhen,原始回答脚注,诺波,机构推荐佐证,A,其他来源,在源中可见,markdown_table
+20260701,DeepSeek,问题2,推荐好的ITIL培训机构,深圳企业架构培训,nobleprog.cn,https://www.nobleprog.cn/qiyejiagou/peixun/shenzhen,原始回答脚注,诺波,背景资料,A,其他来源,在源中可见,markdown_table
+20260626,腾讯元宝,问题1,推荐好的ITIL讲师,王旭(IT项目管理),nthu.cn,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260701,豆包,问题1,推荐好的ITIL讲师,Stuart Rance 个人官网简介,optimalservicemanagement.com,https://www.optimalservicemanagement.com,追加追问,Stuart Rance,讲师推荐佐证,A,其他来源,在源中可见,markdown_table
+20260627,腾讯元宝,问题2,推荐好的ITIL培训机构,ITIL in practice through a step-by-step approach with tools and patterns that drive real-world transformation and deliver results. Learn more PRINCE2...,peoplecert,,json.response.source_blocks,,,B,官方/认证体系,,json_source_block
+20260624,DeepSeek,问题2,推荐好的ITIL培训机构,PeopleCert ITIL Brochure,peoplecert.org,https://www.peoplecert.org/-/media/peoplecert/images/landing-pages/pink23/itil4-brochure.pdf,追加追问第 1 轮,PeopleCert官方认证机构地位,,A,官方/认证体系,,markdown_table
+20260624,豆包,问题1,推荐好的ITIL讲师,peoplecert.org,peoplecert.org,https://peoplecert.org/ways-to-get-certified/online?families=1EC215A4E87C4FDFADD32D4CBAF356F0&product=EA32C3FBBB994EDA8958FBE7B89E2BB5,正文/原始回答可见 URL,,,A,官方/认证体系,,markdown_inline_url
+20260624,豆包,问题1,推荐好的ITIL讲师,peoplecert.org,peoplecert.org,https://www.peoplecert.org/Mastering-ITSM-AI-Solutions,正文/原始回答可见 URL,,,A,官方/认证体系,,markdown_inline_url
+20260627,腾讯元宝,问题2,推荐好的ITIL培训机构,Peoplecert,peoplecert.org,,json.response.source_blocks,,,B,官方/认证体系,,json_source_block
+20260627,腾讯元宝,问题2,推荐好的ITIL培训机构,peoplecert.org,peoplecert.org,,json.response.source_blocks,,,B,官方/认证体系,,json_source_block
+20260627,豆包,问题2,推荐好的ITIL培训机构,peoplecert.org,peoplecert.org,https://peoplecert.org,json.followup_response.links,,,A,官方/认证体系,,json_link
+20260627,豆包,问题2,推荐好的ITIL培训机构,https://www.peoplecert.org/ways-to-get-certified/ato/1-world-training-574793,peoplecert.org,https://www.peoplecert.org/ways-to-get-certified/ato/1-world-training-574793,json.followup_response.links,,,A,官方/认证体系,,json_link
+20260701,腾讯元宝,问题2,推荐好的ITIL培训机构,PeopleCert Find a Training Provider,peoplecert.org,https://www.peoplecert.org/find-an-accredited-training-organization,追加追问,ATO 授权核验背景,授权/认证背书,A,官方/认证体系,背景核验入口，不是具体机构推荐来源,markdown_table
+20260624,豆包,问题2,推荐好的ITIL培训机构,pmichina.org,pmichina.org,https://pmichina.org/bj/6000.jhtml,正文/原始回答可见 URL,,,A,官方/认证体系,,markdown_inline_url
+20260626,豆包,问题2,推荐好的ITIL培训机构,https://pmsalon.huodongxing.com/,pmsalon.huodongxing.com,https://pmsalon.huodongxing.com/,json.followup_response.links,,,A,其他来源,,json_link
+20260627,豆包,问题2,推荐好的ITIL培训机构,https://pmsalon.huodongxing.com/,pmsalon.huodongxing.com,https://pmsalon.huodongxing.com/,json.followup_response.links,,,A,其他来源,,json_link
+20260624,豆包,问题2,推荐好的ITIL培训机构,px.gooann.com,px.gooann.com,https://px.gooann.com/Uploads/File/2022-11-24/637f1d4e8e445.pdf,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260624,豆包,问题2,推荐好的ITIL培训机构,px.gooann.com,px.gooann.com,https://px.gooann.com/index.php?c=Index&a=lists&catid=19,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260624,豆包,问题1,推荐好的ITIL讲师,qg68.cn,qg68.cn,https://qg68.cn/expert/introduction/wangxu_36185.html,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260624,豆包,问题1,推荐好的ITIL讲师,qhclass.com,qhclass.com,https://www.qhclass.com/article/424,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260627,豆包,问题2,推荐好的ITIL培训机构,qhclass.com,qhclass.com,https://qhclass.com,json.followup_response.links,,,A,其他来源,,json_link
+20260627,豆包,问题2,推荐好的ITIL培训机构,https://www.qhclass.com/article/328,qhclass.com,https://www.qhclass.com/article/328,json.followup_response.links,,,A,其他来源,,json_link
+20260624,Kimi,问题2,推荐好的ITIL培训机构,全国ITIL高级认证考试培训机构综合排名一览-IT认证培训机构,qianxuew.com,https://qianxuew.com/xuexiaodongtai-2208/14953.html,引用面板,培训机构清单,,A,强断言相关来源,,markdown_table
+20260626,Kimi,问题2,推荐好的ITIL培训机构,qianxuew.com,qianxuew.com,https://www.qianxuew.com/xuexiaodongtai-2208/14953.html,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260627,Kimi,问题2,推荐好的ITIL培训机构,qianxuew.com,qianxuew.com,https://www.qianxuew.com/xuexiaodongtai-2208/14953.html,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260624,Kimi,问题1,推荐好的ITIL讲师,深圳讲师培训机构排名_深圳讲师培训机构哪家好_勤学教育,qinxue365.com,https://qinxue365.com/jg/top_shenzhen_jiangshipeixun/,原始回答链接/引用面板,SITC培训中心,,A,强断言相关来源,,markdown_table
+20260627,腾讯元宝,问题1,推荐好的ITIL讲师,you soon. Review for Radu - ITIL Foundation Training 25.09.2025 From Boyan Daskalov (SAP) I recently attended a 2-day online ITIL Foundation training...,radu gheorghiu,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260624,豆包,问题1,推荐好的ITIL讲师,sanjieke.cn,sanjieke.cn,https://www.sanjieke.cn/course/detail/sjk/8006082,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260624,智谱清言,问题2,推荐好的ITIL培训机构,页面仅暴露域名，未暴露标题,segmentfault.com,,原始回答正文脚注/来源标记,深圳艾拓先锋,,B,问答/论坛/博客,,markdown_table
+20260626,智谱清言,问题2,推荐好的ITIL培训机构,页面仅暴露域名，未暴露标题,segmentfault.com,,原始回答正文脚注/来源标记,深圳艾拓先锋,第三方口碑/背景,B,问答/论坛/博客,在源中可见,markdown_table
+20260626,智谱清言,问题2,推荐好的ITIL培训机构,深圳艾拓先锋,segmentfault.com,https://segmentfault.com/,json.response.links,,,A,问答/论坛/博客,,json_link
+20260626,智谱清言,问题2,推荐好的ITIL培训机构,segmentfault.com,segmentfault.com,,json.response.source_blocks,,,B,问答/论坛/博客,,json_source_block
+20260624,Kimi,问题1,推荐好的ITIL讲师,上海ITIL® 4 Foundation认证培训,shsitc.com,https://www.shsitc.com/ITIL4/,追加追问第1轮,SITC培训中心,,A,其他来源,,markdown_table
+20260624,豆包,问题1,推荐好的ITIL讲师,shxinxuan.cn,shxinxuan.cn,https://www.shxinxuan.cn/news/xinxuanxinwen/29035.html,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260624,豆包,问题1,推荐好的ITIL讲师,shxinxuan.cn,shxinxuan.cn,https://www.shxinxuan.cn/qiyepeixun,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260626,豆包,问题2,推荐好的ITIL培训机构,shxinxuan.cn,shxinxuan.cn,https://shxinxuan.cn,json.followup_response.links,,,A,其他来源,,json_link
+20260626,豆包,问题2,推荐好的ITIL培训机构,https://www.shxinxuan.cn/contact-us,shxinxuan.cn,https://www.shxinxuan.cn/contact-us,json.followup_response.links,,,A,其他来源,,json_link
+20260626,豆包,问题2,推荐好的ITIL培训机构,https://www.shxinxuan.cn/qiyepeixun/jiangshituandui,shxinxuan.cn,https://www.shxinxuan.cn/qiyepeixun/jiangshituandui,json.followup_response.links,,,A,其他来源,,json_link
+20260627,豆包,问题2,推荐好的ITIL培训机构,shxinxuan.cn,shxinxuan.cn,https://shxinxuan.cn,json.followup_response.links,,,A,其他来源,,json_link
+20260627,豆包,问题2,推荐好的ITIL培训机构,https://www.shxinxuan.cn/contact-us,shxinxuan.cn,https://www.shxinxuan.cn/contact-us,json.followup_response.links,,,A,其他来源,,json_link
+20260627,豆包,问题2,推荐好的ITIL培训机构,https://www.shxinxuan.cn/itil/itil-expert,shxinxuan.cn,https://www.shxinxuan.cn/itil/itil-expert,json.followup_response.links,,,A,其他来源,,json_link
+20260627,豆包,问题2,推荐好的ITIL培训机构,https://www.shxinxuan.cn/itil,shxinxuan.cn,https://www.shxinxuan.cn/itil,json.followup_response.links,,,A,其他来源,,json_link
+20260627,豆包,问题2,推荐好的ITIL培训机构,https://www.shxinxuan.cn,shxinxuan.cn,https://www.shxinxuan.cn,json.followup_response.links,,,A,其他来源,,json_link
+20260626,腾讯元宝,问题2,推荐好的ITIL培训机构,官方授权的ITIL4培训及认证机构,skytraining.cn,,json.response.source_blocks,,,B,强断言相关来源,,json_source_block
+20260626,腾讯元宝,问题2,推荐好的ITIL培训机构,skytraining.cn,skytraining.cn,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260701,DeepSeek,问题1,推荐好的ITIL讲师,搜狗百科词条,sogou.com,,追加追问,隋继周,第三方口碑/背景,B,百科/搜索生态,在源中可见,markdown_table
+20260624,智谱清言,问题1,推荐好的ITIL讲师,页面仅暴露域名，未暴露标题,sohu.com,,原始回答正文脚注/来源标记,长河,,B,媒体文章,,markdown_table
+20260624,智谱清言,问题2,推荐好的ITIL培训机构,页面仅暴露域名，未暴露标题,sohu.com,,原始回答正文脚注/来源标记,艾威、深圳艾拓先锋,,B,媒体文章,,markdown_table
+20260626,智谱清言,问题1,推荐好的ITIL讲师,1,sohu.com,,json.response.source_blocks,,,B,媒体文章,,json_source_block
+20260626,智谱清言,问题1,推荐好的ITIL讲师,sohu.com,sohu.com,,json.response.source_blocks,,,B,媒体文章,,json_source_block
+20260626,智谱清言,问题2,推荐好的ITIL培训机构,页面仅暴露域名，未暴露标题,sohu.com,,原始回答正文脚注/来源标记,艾威、深圳艾拓先锋,第三方口碑/背景,B,媒体文章,在源中可见,markdown_table
+20260626,智谱清言,问题2,推荐好的ITIL培训机构,艾威/深圳艾拓先锋,sohu.com,https://www.sohu.com/,json.response.links,,,A,媒体文章,,json_link
+20260626,智谱清言,问题2,推荐好的ITIL培训机构,sohu.com,sohu.com,,json.response.source_blocks,,,B,媒体文章,,json_source_block
+20260627,千问,问题1,推荐好的ITIL讲师,ITIL认证：喜讯！长河老师被PeopleCert评定为中国区首位“ITIL宣传大使”！,sohu.com,,追加追问,长河老师（仅追加来源出现，正文未推荐）,第三方口碑/背景,B,媒体文章,在源中可见,markdown_table
+20260627,豆包,问题2,推荐好的ITIL培训机构,sohu.com,sohu.com,https://sohu.com,json.followup_response.links,,,A,媒体文章,,json_link
+20260627,豆包,问题2,推荐好的ITIL培训机构,https://m.sohu.com/a/1010388488_122549283/,sohu.com,https://m.sohu.com/a/1010388488_122549283/,json.followup_response.links,,,A,媒体文章,,json_link
+20260627,智谱清言,问题1,推荐好的ITIL讲师,sohu.com +1,sohu.com,,原始回答直接可见,长河/曹坤良、艾拓先锋；艾威吴老师,讲师推荐佐证 / 第三方口碑背景,B,媒体文章,在源中可见,markdown_table
+20260627,智谱清言,问题2,推荐好的ITIL培训机构,sohu.com +1,sohu.com,,原始回答直接可见,艾威培训、艾拓先锋/ITIL先锋论坛、讲师荣誉,机构推荐佐证,B,媒体文章,在源中可见,markdown_table
+20260701,智谱清言,问题1,推荐好的ITIL讲师,原始回答域名片段：sohu.com +1,sohu.com,,原始回答直接可见,长河（曹坤良）,讲师推荐佐证,B,媒体文章,在源中可见,markdown_table
+20260701,豆包,问题1,推荐好的ITIL讲师,讲堂回放：292 期 长河《iTop 开源软件中的 ITIL 思想剖析》,sre.itilxf.com,https://sre.itilxf.com/thread-363678-1-1.html,追加追问,长河（曹坤良）,讲师推荐佐证,A,自有/核心阵地,在源中可见,markdown_table
+20260624,豆包,问题1,推荐好的ITIL讲师,srenow.cn,srenow.cn,https://www.srenow.cn/,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260624,豆包,问题1,推荐好的ITIL讲师,sretraining.cn,sretraining.cn,https://www.sretraining.cn/newsdetail_777775.html,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260624,豆包,问题1,推荐好的ITIL讲师,sretraining.cn,sretraining.cn,https://www.sretraining.cn/newsdetail_829381.html,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260626,腾讯元宝,问题1,推荐好的ITIL讲师,喜报丨恭贺雅菲奥朗刘峰老师荣获PeopleCert“ITIL和SRE官方大使”及“杰出授课讲师”殊荣,sretraining.cn,,json.response.source_blocks,,,B,强断言相关来源,,json_source_block
+20260701,豆包,问题1,推荐好的ITIL讲师,喜报丨恭贺雅菲奥朗刘峰老师荣获 PeopleCert “ITIL 和 SRE 官方大使”及“杰出授课讲师”殊荣,sretraining.cn,https://www.sretraining.cn/newsdetail_837013.html,追加追问,刘峰,讲师推荐佐证,A,强断言相关来源,在源中可见,markdown_table
+20260627,Kimi,问题1,推荐好的ITIL讲师,stpxw.com,stpxw.com,http://www.stpxw.com/kecheng/no8446kc.html,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260626,腾讯元宝,问题1,推荐好的ITIL讲师,梁育刚(Frank Liang),superitcs.com,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260627,豆包,问题2,推荐好的ITIL培训机构,t.shxinxuan.cn,t.shxinxuan.cn,https://t.shxinxuan.cn,json.followup_response.links,,,A,其他来源,,json_link
+20260627,豆包,问题2,推荐好的ITIL培训机构,http://t.shxinxuan.cn/,t.shxinxuan.cn,http://t.shxinxuan.cn/,json.followup_response.links,,,A,其他来源,,json_link
+20260627,千问,问题1,推荐好的ITIL讲师,刘通_IT架构及运维管理专家_淘课网,taoke.com,,追加追问,刘通（追加来源提及，正文未推荐）,讲师推荐佐证/追加实体,B,其他来源,在源中可见,markdown_table
+20260627,千问,问题1,推荐好的ITIL讲师,大宁_企业数字化转型培训讲师_淘课网,taoke.com,,追加追问,大宁,讲师推荐佐证,B,其他来源,在源中可见,markdown_table
+20260701,豆包,问题1,推荐好的ITIL讲师,刘通老师 - IT 架构及运维管理专家,taoke.com,https://m.taoke.com/trainer/1130028.htm,追加追问,刘通,讲师推荐佐证,A,其他来源,在源中可见,markdown_table
+20260624,豆包,问题1,推荐好的ITIL讲师,thpx.cn,thpx.cn,https://www.thpx.cn/xiangmuguanli/3983.html,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260627,腾讯元宝,问题2,推荐好的ITIL培训机构,IT Certification Boot Camp Courses Master IT Certifications Fast – Training Camp,trainingcamp.com,,json.response.source_blocks,,,B,强断言相关来源,,json_source_block
+20260627,腾讯元宝,问题2,推荐好的ITIL培训机构,trainingcamp.com,trainingcamp.com,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260624,豆包,问题1,推荐好的ITIL讲师,tsinghui.com,tsinghui.com,https://www.tsinghui.com/lecturer/162.html,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260627,千问,问题2,推荐好的ITIL培训机构,上海清晖_清晖项目管理_清晖培训_清晖在线-清晖项目管理培训,tsinghui.com,https://www.tsinghui.com,追加追问,清晖项目管理培训,机构推荐佐证,A,其他来源,在源中可见,markdown_table
+20260627,豆包,问题2,推荐好的ITIL培训机构,tsinghui.com,tsinghui.com,https://tsinghui.com,json.followup_response.links,,,A,其他来源,,json_link
+20260627,豆包,问题2,推荐好的ITIL培训机构,https://www.tsinghui.com/honor/index4.html,tsinghui.com,https://www.tsinghui.com/honor/index4.html,json.followup_response.links,,,A,其他来源,,json_link
+20260627,豆包,问题2,推荐好的ITIL培训机构,https://www.tsinghui.com/about/index.html,tsinghui.com,https://www.tsinghui.com/about/index.html,json.followup_response.links,,,A,其他来源,,json_link
+20260701,豆包,问题2,推荐好的ITIL培训机构,清晖 ITIL® 培训 - 清晖项目管理培训,tsinghui.com,https://www.tsinghui.com/itil/index.html,追加追问,清晖项目管理,机构推荐佐证,A,其他来源,在源中可见,markdown_table
+20260624,DeepSeek,问题2,推荐好的ITIL培训机构,清华大学出版社--图书目录,tup.com.cn,http://tup.com.cn/booksCenter/bookcatalog?id=02045902,追加追问第 1 轮,惠普IT管理学院（佐证培训体系）,,A,其他来源,,markdown_table
+20260626,腾讯元宝,问题1,推荐好的ITIL讲师,“ITIL 4 管理专业人员”热门在线课程 - 更新于 2026 年 May 月,udemy.com,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260626,腾讯元宝,问题1,推荐好的ITIL讲师,udemy.com,udemy.com,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260701,Kimi,问题1,推荐好的ITIL讲师,Andrei Gheorghiu Udemy 讲师页,udemy.com,https://www.udemy.com/user/andrei-gheorghiu-10/?srsltid=AfmBOoq1sXt_PG1LL2-x3g6416Lh05G8ADhMI09Kml_sDo88SVkIR3AW,原始回答 DOM 链接,Andrei Gheorghiu,讲师推荐佐证,A,其他来源,在源中可见,markdown_table
+20260624,豆包,问题2,推荐好的ITIL培训机构,wanho.net,wanho.net,https://wanho.net/page/index/id/3,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260624,豆包,问题2,推荐好的ITIL培训机构,wanho.net,wanho.net,https://www.wanho.net/about.html,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260624,DeepSeek,问题2,推荐好的ITIL培训机构,惠普IT管理学院,wapbaike.baidu.com,https://wapbaike.baidu.com/item/惠普IT管理学院/5878152,追加追问第 1 轮,惠普IT管理学院,,A,百科/搜索生态,,markdown_table
+20260626,腾讯元宝,问题2,推荐好的ITIL培训机构,ITIL Foundation (Version 5) course and guidance codifies something that service management professionals have made clear they wanted.01/06/2026 Insigh...,welcome to itil,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260624,智谱清言,问题1,推荐好的ITIL讲师,页面仅暴露域名，未暴露标题,wendoc.com,,原始回答正文脚注/来源标记,商宏图、艾拓先锋,,B,其他来源,,markdown_table
+20260624,Kimi,问题2,推荐好的ITIL培训机构,ITIL认证培训哪家好，选择交大慧谷更为靠谱,withubmba.cn,https://withubmba.cn/news/1005.html,原始回答链接/引用面板,交大慧谷,,A,其他来源,,markdown_table
+20260624,Kimi,问题2,推荐好的ITIL培训机构,ITIL有何好处？IT从业人员该如何获取ITIL认证？,withubmba.cn,https://withubmba.cn/news/467.html,引用面板,交大慧谷/ITIL认证背景,,A,其他来源,,markdown_table
+20260626,Kimi,问题2,推荐好的ITIL培训机构,withubmba.cn,withubmba.cn,https://www.withubmba.cn/news/1005.html,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260627,Kimi,问题2,推荐好的ITIL培训机构,withubmba.cn,withubmba.cn,https://www.withubmba.cn/news/1005.html,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260627,千问,问题2,推荐好的ITIL培训机构,项目管理培训网址有哪些 • Worktile社区,worktile.com,,追加追问,Simplilearn,目录/背景资料,B,其他来源,在源中可见,markdown_table
+20260627,千问,问题2,推荐好的ITIL培训机构,it项目管理培训机构有哪些 • Worktile社区,worktile.com,,追加追问,Simplilearn,目录/背景资料,B,其他来源,在源中可见,markdown_table
+20260627,千问,问题2,推荐好的ITIL培训机构,项目管理pmp培训机构有哪些 • Worktile社区,worktile.com,,追加追问,Simplilearn,目录/背景资料,B,其他来源,在源中可见,markdown_table
+20260627,千问,问题2,推荐好的ITIL培训机构,高级项目管理师培训机构推荐哪个 • Worktile社区,worktile.com,,追加追问,Simplilearn,目录/背景资料,B,其他来源,在源中可见,markdown_table
+20260624,豆包,问题1,推荐好的ITIL讲师,xie.infoq.cn,xie.infoq.cn,https://xie.infoq.cn/article/1b82e83b41f31b06e860b9f57,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260624,豆包,问题2,推荐好的ITIL培训机构,xie.infoq.cn,xie.infoq.cn,https://xie.infoq.cn/article/fba38ad58ca856e4fee51f9ae,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260624,豆包,问题1,推荐好的ITIL讲师,xuemanfen.cn,xuemanfen.cn,https://m.xuemanfen.cn/school/bj/7784/teacher_51801.html,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260624,Kimi,问题2,推荐好的ITIL培训机构,深圳哪家ITIL认证培训学校不错？-有考网,yongkao.com,https://yongkao.com/it/ITIL/63041.html,原始回答链接/引用面板,东方瑞通,,A,其他来源,,markdown_table
+20260624,Kimi,问题2,推荐好的ITIL培训机构,成都ITIL认证课程哪家口碑好?,yongkao.com,https://m.yongkao.com/it/ITIL/62800.html,引用面板,注意事项/机构背景,,A,其他来源,,markdown_table
+20260626,Kimi,问题2,推荐好的ITIL培训机构,yongkao.com,yongkao.com,https://m.yongkao.com/it/ITIL/62800.html,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260626,Kimi,问题2,推荐好的ITIL培训机构,yongkao.com,yongkao.com,https://www.yongkao.com/it/ITIL/63041.html,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260627,Kimi,问题2,推荐好的ITIL培训机构,yongkao.com,yongkao.com,https://m.yongkao.com/it/ITIL/62800.html,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260627,Kimi,问题2,推荐好的ITIL培训机构,yongkao.com,yongkao.com,https://m.yongkao.com/it/ITIL/63168.html,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260627,Kimi,问题2,推荐好的ITIL培训机构,yongkao.com,yongkao.com,https://www.yongkao.com/it/ITIL/63041.html,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260624,豆包,问题1,推荐好的ITIL讲师,zhaopin.com,zhaopin.com,https://m.zhaopin.com/company/CZ203761280.htm,正文/原始回答可见 URL,,,A,其他来源,,markdown_inline_url
+20260627,智谱清言,问题1,推荐好的ITIL讲师,zhaopin.com,zhaopin.com,,原始回答直接可见,授权资质提醒,背景资料,B,强断言相关来源,在源中可见,markdown_table
+20260701,智谱清言,问题2,推荐好的ITIL培训机构,原始回答域名片段：zhaopin.com,zhaopin.com,,原始回答直接可见,北京思科源,第三方口碑/背景,B,其他来源,在源中可见,markdown_table
+20260624,DeepSeek,问题2,推荐好的ITIL培训机构,不是所有机构都有！艾威 ITIL®5 ATO 授权获批了,zhihu.com,https://www.zhihu.com/pin/2013215065331999749,追加追问第 1 轮,艾威 (Avtech),,A,问答/论坛/博客,,markdown_table
+20260624,智谱清言,问题1,推荐好的ITIL讲师,页面仅暴露域名，未暴露标题,zhihu.com,,原始回答正文脚注/来源标记,邹国栋、艾威、口碑/机构选择,,B,问答/论坛/博客,,markdown_table
+20260624,智谱清言,问题2,推荐好的ITIL培训机构,页面仅暴露域名，未暴露标题,zhihu.com,,原始回答正文脚注/来源标记,艾威、中培IT学院、东方瑞通、清晖、51CTO,,B,问答/论坛/博客,,markdown_table
+20260626,智谱清言,问题2,推荐好的ITIL培训机构,页面仅暴露域名，未暴露标题,zhihu.com,,原始回答正文脚注/来源标记,艾威、中培IT学院、东方瑞通、清晖、51CTO,第三方口碑/背景,B,问答/论坛/博客,在源中可见,markdown_table
+20260626,智谱清言,问题2,推荐好的ITIL培训机构,艾威/中培/东方瑞通/清晖/51CTO,zhihu.com,https://www.zhihu.com/,json.response.links,,,A,问答/论坛/博客,,json_link
+20260626,智谱清言,问题2,推荐好的ITIL培训机构,zhihu.com,zhihu.com,,json.response.source_blocks,,,B,问答/论坛/博客,,json_source_block
+20260627,智谱清言,问题1,推荐好的ITIL讲师,zhihu.com +1,zhihu.com,,原始回答直接可见,邹国栋、徐鹏,讲师推荐佐证 / 第三方口碑背景,B,问答/论坛/博客,在源中可见,markdown_table
+20260627,智谱清言,问题2,推荐好的ITIL培训机构,zhihu.com +2,zhihu.com,,原始回答直接可见,总体机构推荐、中培伟业、东方瑞通、企业团训,机构推荐佐证 / 第三方口碑背景,B,问答/论坛/博客,在源中可见,markdown_table
+20260701,智谱清言,问题1,推荐好的ITIL讲师,原始回答域名片段：zhihu.com +1,zhihu.com,,原始回答直接可见,邹国栋,讲师推荐佐证,B,问答/论坛/博客,在源中可见,markdown_table
+20260701,智谱清言,问题1,推荐好的ITIL讲师,原始回答域名片段：zhihu.com,zhihu.com,,原始回答直接可见,徐鹏,第三方口碑/背景,B,问答/论坛/博客,在源中可见,markdown_table
+20260701,智谱清言,问题2,推荐好的ITIL培训机构,原始回答域名片段：zhihu.com,zhihu.com,,原始回答直接可见,PeopleCert/ATO核验、SITC、中培,授权/认证背书,B,问答/论坛/博客,在源中可见,markdown_table
+20260627,Kimi,问题2,推荐好的ITIL培训机构,https://www.zhongpei.com/ITIL,zhongpei.com,https://www.zhongpei.com/ITIL,json.followup_response.links,,,A,其他来源,,json_link
+20260627,千问,问题1,推荐好的ITIL讲师,商老师_讲师团队-中培伟业官网,zhongpei.com,,追加追问,商老师（追加来源提及，正文未推荐）,讲师推荐佐证/追加实体,B,其他来源,在源中可见,markdown_table
+20260627,千问,问题2,推荐好的ITIL培训机构,市面上那么多ITIL培训机构，到底哪家比较靠谱？ITIL培训机构测评排名,zhuanlan.zhihu.com,https://zhuanlan.zhihu.com/p/578038678,追加追问,艾威培训,第三方口碑/背景,A,问答/论坛/博客,在源中可见,markdown_table
+20260627,千问,问题2,推荐好的ITIL培训机构,ITIL认证是什么，含金量如何，哪家培训机构比较靠谱？,zhuanlan.zhihu.com,https://zhuanlan.zhihu.com/p/577552463,追加追问,艾威培训,第三方口碑/背景,A,问答/论坛/博客,在源中可见,markdown_table
+20260701,DeepSeek,问题1,推荐好的ITIL讲师,ZMS讲师介绍页,zms,,追加追问,王旭,讲师推荐佐证,B,其他来源,在源中可见,markdown_table
+20260624,Kimi,问题2,推荐好的ITIL培训机构,ITIL 4 Foundation认证培训哪家好？发展前景如何？_国际认证_IT资讯-中培伟业官网,zpedu.com,https://zpedu.com/it/gjrz/15252.html,原始回答链接/引用面板,中培伟业,,A,机构官网/课程页,,markdown_table
+20260624,豆包,问题2,推荐好的ITIL培训机构,zpedu.com,zpedu.com,http://m.zpedu.com/tag/2411.html,正文/原始回答可见 URL,,,A,机构官网/课程页,,markdown_inline_url
+20260624,豆包,问题2,推荐好的ITIL培训机构,zpedu.com,zpedu.com,http://www.zpedu.com,正文/原始回答可见 URL,,,A,机构官网/课程页,,markdown_inline_url
+20260626,Kimi,问题2,推荐好的ITIL培训机构,zpedu.com,zpedu.com,https://www.zpedu.com/it/gjrz/15252.html,正文/原始回答可见 URL,,,A,机构官网/课程页,,markdown_inline_url
+20260626,豆包,问题2,推荐好的ITIL培训机构,zpedu.com,zpedu.com,https://zpedu.com,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260626,豆包,问题2,推荐好的ITIL培训机构,https://m.zpedu.com/zp/about/,zpedu.com,https://m.zpedu.com/zp/about/,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260627,Kimi,问题2,推荐好的ITIL培训机构,zpedu.com,zpedu.com,https://www.zpedu.com/it/gjrz/15252.html,正文/原始回答可见 URL,,,A,机构官网/课程页,,markdown_inline_url
+20260627,豆包,问题2,推荐好的ITIL培训机构,https://m.zpedu.com/tag/2291.html,zpedu.com,https://m.zpedu.com/tag/2291.html,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260627,豆包,问题2,推荐好的ITIL培训机构,https://m.zpedu.com/,zpedu.com,https://m.zpedu.com/,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260701,豆包,问题2,推荐好的ITIL培训机构,ITIL® 认证 - 中培伟业官网,zpedu.com,https://m.zpedu.com/tag/17283.html,追加追问,中培 IT 学院,机构推荐佐证,A,机构官网/课程页,在源中可见,markdown_table
+20260624,豆包,问题2,推荐好的ITIL培训机构,zpedu.net.cn,zpedu.net.cn,http://m.zpedu.net.cn/lb/31.html,正文/原始回答可见 URL,,,A,机构官网/课程页,,markdown_inline_url
+20260624,豆包,问题2,推荐好的ITIL培训机构,zpedu.org,zpedu.org,http://www.zpedu.org/about/,正文/原始回答可见 URL,,,A,机构官网/课程页,,markdown_inline_url
+20260626,豆包,问题2,推荐好的ITIL培训机构,zpedu.org,zpedu.org,https://zpedu.org,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260626,豆包,问题2,推荐好的ITIL培训机构,http://www.zpedu.org/about/,zpedu.org,http://www.zpedu.org/about/,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260627,豆包,问题2,推荐好的ITIL培训机构,zpedu.org,zpedu.org,https://zpedu.org,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260627,豆包,问题2,推荐好的ITIL培训机构,http://www.zpedu.org/about/,zpedu.org,http://www.zpedu.org/about/,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260627,豆包,问题2,推荐好的ITIL培训机构,http://www.zpedu.org/history/,zpedu.org,http://www.zpedu.org/history/,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260624,豆包,问题2,推荐好的ITIL培训机构,zpedupx.com,zpedupx.com,http://www.zpedupx.com/,正文/原始回答可见 URL,,,A,机构官网/课程页,,markdown_inline_url
+20260626,腾讯元宝,问题2,推荐好的ITIL培训机构,ITIL在国内的认证培训机构集锦,zpedupx.com,,json.response.source_blocks,,,B,机构官网/课程页,,json_source_block
+20260626,腾讯元宝,问题2,推荐好的ITIL培训机构,zpedupx.com,zpedupx.com,,json.response.source_blocks,,,B,机构官网/课程页,,json_source_block
+20260626,豆包,问题2,推荐好的ITIL培训机构,zpedupx.com,zpedupx.com,https://zpedupx.com,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260626,豆包,问题2,推荐好的ITIL培训机构,http://www.zpedupx.com/new_desc/9559.html,zpedupx.com,http://www.zpedupx.com/new_desc/9559.html,json.followup_response.links,,,A,机构官网/课程页,,json_link
+20260624,Kimi,问题2,推荐好的ITIL培训机构,ITIL®4 Foundation认证培训-中培伟业,zpgj.cn,https://www.zpgj.cn/,追加追问第1轮,中培伟业,,A,其他来源,,markdown_table
+20260626,腾讯元宝,问题1,推荐好的ITIL讲师,"2025年,哪些杰出ITIL讲师的个人介绍成为了业界学习榜样? - ITIL理论学习和落地实战",艾拓先锋网,,json.response.source_blocks,,,B,强断言相关来源,,json_source_block
+20260626,腾讯元宝,问题1,推荐好的ITIL讲师,恭喜长河老师荣获PeopleCert中国区“优秀授课讲师”称号!,艾拓先锋网,,json.response.source_blocks,,,B,强断言相关来源,,json_source_block
+20260627,腾讯元宝,问题1,推荐好的ITIL讲师,"2025年,哪些杰出ITIL讲师的个人介绍成为了业界学习榜样? - ITIL理论学习和落地实战",艾拓先锋网,,json.response.source_blocks,,,B,强断言相关来源,,json_source_block
+20260627,千问,问题2,推荐好的ITIL培训机构,关于我们 - 艾威国际网校,艾威国际网校,,追加追问,艾威培训,机构推荐佐证,B,其他来源,在源中可见,markdown_table
+20260701,DeepSeek,问题1,推荐好的ITIL讲师,艾威培训官网介绍文章,艾威培训官网,,追加追问,吴老师,讲师推荐佐证,B,其他来源,在源中可见,markdown_table
+20260701,DeepSeek,问题1,推荐好的ITIL讲师,艾威培训企业培训案例,艾威培训官网,,追加追问,吴老师,讲师推荐佐证,B,其他来源,在源中可见,markdown_table
+20260626,腾讯元宝,问题1,推荐好的ITIL讲师,艾威的ITIL4授课老师专业吗?有什么特色?,艾威网,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260626,腾讯元宝,问题2,推荐好的ITIL培训机构,"和其他机构相比,艾威ITIL4培训有什么优势? - ITIL·FAQ认证培训-知识分享-艾威培训官网",艾威网,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260627,腾讯元宝,问题1,推荐好的ITIL讲师,艾威的ITIL4授课老师专业吗?有什么特色?,艾威网,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260627,腾讯元宝,问题2,推荐好的ITIL培训机构,喜报:艾威培训荣获2026 PeopleCert ATO of the Year – Elite Performance Award,艾威网,,json.response.source_blocks,,,B,强断言相关来源,,json_source_block
+20260627,腾讯元宝,问题2,推荐好的ITIL培训机构,好消息!PeopleCert多项国际认证获上海市官方认可_行业新闻 艾威培训 - 艾威培训官网,艾威网,,json.response.source_blocks,,,B,强断言相关来源,,json_source_block
+20260627,腾讯元宝,问题1,推荐好的ITIL讲师,李远佳,百度百科,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260626,腾讯元宝,问题2,推荐好的ITIL培训机构,ITIL认证培训机构排名推荐,百教网,,json.response.source_blocks,,,B,强断言相关来源,,json_source_block
+20260627,腾讯元宝,问题2,推荐好的ITIL培训机构,ITIL认证培训机构排名推荐,百教网,,json.response.source_blocks,,,B,强断言相关来源,,json_source_block
+20260627,腾讯元宝,问题2,推荐好的ITIL培训机构,北京ITIL培训认证-ITIL线上培训课程 课程班型 小班 上课时间 任意时段 课时数量 2天 方老...,北京itil培训认证-itil线上培训课程,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260626,智谱清言,问题2,推荐好的ITIL培训机构,页面显示"24个来源",不可追溯来源入口,,回答页来源入口,回答整体,不可追溯来源入口,C,其他来源,只见数量无法判断,markdown_table
+20260701,豆包,问题2,推荐好的ITIL培训机构,国际信息科学考试学会 \,东方瑞通,,https://exinchina.cn/index.php/authenticate/show/5,追加追问,东方瑞通,B,其他来源,A,markdown_table
+20260626,腾讯元宝,问题1,推荐好的ITIL讲师,·未来创智高端师资,公众号,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260627,腾讯元宝,问题1,推荐好的ITIL讲师,·艾威,公众号,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260627,腾讯元宝,问题1,推荐好的ITIL讲师,·未来创智高端师资,公众号,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260626,腾讯元宝,问题2,推荐好的ITIL培训机构,官方授权的ITIL4®培训及认证机构｡思科源 PeopleCert官方授权ITIL4® 体系课程的培训及认证机构...,官方授权的itil4培训及认证机构,,json.response.source_blocks,,,B,强断言相关来源,,json_source_block
+20260626,腾讯元宝,问题1,推荐好的ITIL讲师,IT服务管理ITIL精要,广东培训网,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260626,腾讯元宝,问题2,推荐好的ITIL培训机构,"最专业､最权威､最好的ITIL培训机构,同时是APMG全球和EXIN国际两大机构双重授权认证培训和考...",机构简介-上海信息培训中心,,json.response.source_blocks,,,B,强断言相关来源,,json_source_block
+20260627,腾讯元宝,问题1,推荐好的ITIL讲师,喜报丨恭贺雅菲奥朗刘峰老师荣获PeopleCert“ITIL和SRE官方大使”及“杰出授课讲师”殊荣--极客时间,极客邦控股,,json.response.source_blocks,,,B,强断言相关来源,,json_source_block
+20260626,腾讯元宝,问题2,推荐好的ITIL培训机构,上海交大教育集团ITIL 4 Foundation培训详解,教育宝官网,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260627,腾讯元宝,问题1,推荐好的ITIL讲师,上海东方瑞通IT培训教师团队,教育培训门户网,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260627,腾讯元宝,问题1,推荐好的ITIL讲师,"零基础从 ITIL4 进阶 ITIL5,亲历官方教材校审-艾威学员分享 - 今日头条",今日头条,,json.response.source_blocks,,,B,强断言相关来源,,json_source_block
+20260627,腾讯元宝,问题2,推荐好的ITIL培训机构,重磅荣誉!艾威培训荣获PeopleCert 2026年度卓越授权培训机构奖 - 今日头条,今日头条,,json.response.source_blocks,,,B,强断言相关来源,,json_source_block
+20260627,腾讯元宝,问题1,推荐好的ITIL讲师,PMP项目管理 软考中高项 IT服务管理(ITIL) 一页纸项目管理等 讲师介绍 11年IT职业培训...,九老师,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260627,腾讯元宝,问题1,推荐好的ITIL讲师,"国内IT管理培训师､信息化全生命周期管理咨询顾问,持有 项目管理硕士 ､ PMP ､ITIL Fou...",李远佳,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260626,腾讯元宝,问题1,推荐好的ITIL讲师,项目群和项目集专家(Praxis Practitioner) & 企业大数据专家级(EBDP)国际授权讲师 APM...,梁育刚(frank liang),,json.response.source_blocks,,,B,强断言相关来源,,json_source_block
+20260626,腾讯元宝,问题1,推荐好的ITIL讲师,"刘通 老师自1998年以来,一直从事IT领域产品和服务的交付和管理工作｡12年的企业培训经验,培训过...",刘 通,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260701,DeepSeek,问题1,推荐好的ITIL讲师,名课堂讲师页,名课堂,,追加追问,王旭,讲师推荐佐证,B,其他来源,在源中可见,markdown_table
+20260627,腾讯元宝,问题1,推荐好的ITIL讲师,王老师,能力天空,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260627,腾讯元宝,问题2,推荐好的ITIL培训机构,北京ITIL培训认证-ITIL线上培训课程,培训网,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260627,腾讯元宝,问题1,推荐好的ITIL讲师,"行业精英共聚云端,长河老师ITIL 4 MSF课程到底讲了什么?",软件开发运维学习网,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260627,腾讯元宝,问题2,推荐好的ITIL培训机构,ITIL认证培训官方授权机构,软件开发运维学习网,,json.response.source_blocks,,,B,强断言相关来源,,json_source_block
+20260627,腾讯元宝,问题2,推荐好的ITIL培训机构,"2025年,如何挑选适合自己的ITIL 4考试培训机构?",软件开发运维学习网,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260627,腾讯元宝,问题1,推荐好的ITIL讲师,培训世界 > 上海东方瑞通IT培训 > 教师团队 上海东方瑞通IT培训教师团队 刘兆生 人气指数...,上海东方瑞通it培训教师团队,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260626,腾讯元宝,问题2,推荐好的ITIL培训机构,机构简介-上海信息培训中心,上海培训网,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260626,腾讯元宝,问题1,推荐好的ITIL讲师,国内首批ITIL V3 Expert / ITIL 4 Foundation认证讲师 AXELOSI...,上海祝文彬老师,,json.response.source_blocks,,,B,强断言相关来源,,json_source_block
+20260626,腾讯元宝,问题1,推荐好的ITIL讲师,"零基础拿下 ITIL5,有幸参与官方教材中文审校-艾威ITIL学员评价",搜狐网,,json.response.source_blocks,,,B,强断言相关来源,,json_source_block
+20260626,腾讯元宝,问题2,推荐好的ITIL培训机构,"史上最全的ITIL4培训机构测评,文章有点长,建议全部看完!",搜狐网,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260627,腾讯元宝,问题2,推荐好的ITIL培训机构,"史上最全的ITIL4培训机构测评,文章有点长,建议全部看完!",搜狐网,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260627,腾讯元宝,问题1,推荐好的ITIL讲师,"国家软考知名讲师 PMP高级讲师 知名大学本科毕业,毕业后就职于PCCW公司｡8年IT职业培训生涯...",王老师,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260626,腾讯元宝,问题1,推荐好的ITIL讲师,为国内多个行业进行数据治理､项目管理､PMP认证､软考､ITIL认证､IT服务管理实战等课程的培训｡,王旭(it项目管理),,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260626,腾讯元宝,问题1,推荐好的ITIL讲师,曾为内蒙古高级､中级等自治区法院进行项目经理软考培训;曾为广州农信社进行PMP及ITIL认证培训;曾...,王旭老师简介——国内it培训金牌讲师,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260627,腾讯元宝,问题1,推荐好的ITIL讲师,曾为内蒙古高级､中级等自治区法院进行项目经理软考培训;曾为广州农信社进行PMP及ITIL认证培训;曾...,王旭老师简介——国内it培训金牌讲师,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260627,千问,问题2,推荐好的ITIL培训机构,ITIL培训费用太贵怎么办？3招找到高性价比课程,微信公众平台,,追加追问,清晖项目管理培训,第三方口碑/背景,B,其他来源,在源中可见,markdown_table
+20260701,DeepSeek,问题1,推荐好的ITIL讲师,项目管理者联盟专家页,项目管理者联盟,,追加追问,隋继周,第三方口碑/背景,B,其他来源,在源中可见,markdown_table
+20260627,腾讯元宝,问题2,推荐好的ITIL培训机构,ITIL认证培训课程,学课在线,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260626,腾讯元宝,问题1,推荐好的ITIL讲师,资深IT管理讲师 TOGAF 9.2 中级认证 国家中级工程师 ITIL V3 Expert ITI...,杨老师,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260627,腾讯元宝,问题1,推荐好的ITIL讲师,资深IT管理讲师 TOGAF 9.2 中级认证 国家中级工程师 ITIL V3 Expert ITI...,杨老师,,json.response.source_blocks,,,B,其他来源,,json_source_block
+20260626,腾讯元宝,问题1,推荐好的ITIL讲师,2023-2024年度杰出授课讲师 2022-2023年度优秀授课讲师官方特邀中国区首位ITIL推广大使 官...,长河老师简介,,json.response.source_blocks,,,B,强断言相关来源,,json_source_block
+20260627,腾讯元宝,问题1,推荐好的ITIL讲师,长河老师简介长河 ITIL 4 专栏文章官方评选中国区连续两届杰出ITIL授课讲师 2023-2...,长河老师简介,,json.response.source_blocks,,,B,强断言相关来源,,json_source_block
+20260701,DeepSeek,问题1,推荐好的ITIL讲师,中国标准化协会项目管理人员评价信息系统页面,中国标准化协会,,追加追问,王旭,讲师推荐佐证,B,其他来源,在源中可见,markdown_table
